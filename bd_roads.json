@@ -1,0 +1,3338 @@
+{
+  "N1": {
+    "coverage": "Dhaka (N8) - Katchpur (N2) - Madanpur (N105) - Mainamati (N102) - Cumilla (R140) - Feni (N104) - Chittagong (N106) - Manashertek (N107) - Satkania (N108) - Ramu (N109) - Cox's Bazar (N110) - Teknaf",
+    "category": "National Highways"
+  },
+  "N2": {
+    "coverage": "Katchpur (N1) - Bhulta (N105) - Sarail (N102) - Jagadishpur (N204) - Shaistaganj (N204) - Mirpur (N207) - Sherpur (N207) - Sylhet (N205, *N208) - Jaintiapur - Jaflong",
+    "category": "National Highways"
+  },
+  "N3": {
+    "coverage": "Dhaka — Progoti Sarani (N301) - Tongi (N302) - Joydebpur (N105, N4) - Mymensingh",
+    "category": "National Highways"
+  },
+  "N4": {
+    "coverage": "Joydebpur (N3, R310) - Kadda (N105) - Tangail (N404) - Elenga (N405) - Madhupur (N401) - Jamalpur",
+    "category": "National Highways"
+  },
+  "N5": {
+    "coverage": "Dhaka - Mirpur Bridge (N501) - Nabinagar (R505) - Manikganj (R504) -Muljan - Uthali (N503) - (ferry) - Natakhola — Baderhat (N505, N513) - Kashinathpur (N6, N504) - Shahjanpur (N515) - Banani (N514) - Bogra western bypass: Jahangirabad (N502) - Tinmatha (N510) - Matidali (N514, N515) - Mordern More (N506) - Rangpur bypass (N517) - Saidpur bypass (N518) - Beldanga (N508) - Thakurgaon - Panchagarh - Tentulia — IND (Banglabandha)",
+    "category": "National Highways"
+  },
+  "N6": {
+    "coverage": "Kashinathpur (N5, N504) - Pabna bypass (N604) - Gaspara (N604) - Dasuria (N704, N705) - Banpara (N507) - Harispur (N602) - Chawk Bidaynath (N602) - Belpukur (N603) - Rajshahi (R680)",
+    "category": "National Highways"
+  },
+  "N7": {
+    "coverage": "Daulatdia Ferryghat — Goalchamot (N803) - Magura (N704) - Arappur (N704) - Jhenaidah - Hamdah (N703) - Palbari (N707, N708) - Chanchra (N706) - Murail (N707) - Phultala (N709) - Khulna - (ferry) - Kudir Battala (N709) - Digraj",
+    "category": "National Highways"
+  },
+  "N8": {
+    "coverage": "Dhaka - Mawa Ferryghat (R812) - (ferry) - Bhanga (N804, N805) - Barisal (N809) - Patuakhali",
+    "category": "National Highways"
+  },
+  "N102": {
+    "coverage": "Sarail (N2) - Ghaturia (N103) - Brahmanbaria - Kuatali (N103) - Mainamati (N1)",
+    "category": "National Highways"
+  },
+  "N103": {
+    "coverage": "Ghaturia (N102) - Kuatali (N102) Brahmanbaria bypass",
+    "category": "National Highways"
+  },
+  "N104": {
+    "coverage": "Feni (N1) - Chowmohani (R140) - Noakhali - Somapur R140 connects to N809 at Lakshmipur",
+    "category": "National Highways"
+  },
+  "N105": {
+    "coverage": "Kadda (N4) - Joydebpur (N3) - Debogram (N301) - Bhulta (N2) - Madanpur (N1) Dhaka eastern bypass, partly under construction",
+    "category": "National Highways"
+  },
+  "N106": {
+    "coverage": "Chittagong (N1) - Hathazari - Rangamati",
+    "category": "National Highways"
+  },
+  "N107": {
+    "coverage": "Manashertek (N1) - Boalkhali",
+    "category": "National Highways"
+  },
+  "N108": {
+    "coverage": "Satkania (N1) - Bandarban (R161)",
+    "category": "National Highways"
+  },
+  "N109": {
+    "coverage": "road through Ramu N1 has a bypass",
+    "category": "National Highways"
+  },
+  "N110": {
+    "coverage": "Cox's Bazar - N1",
+    "category": "National Highways"
+  },
+  "N114": {
+    "coverage": "Cumilla - Kasba",
+    "category": "National Highways"
+  },
+  "N101": {
+    "coverage": "Cumilla - Bibirbazar Land Port Connecting Road",
+    "category": "National Highways"
+  },
+  "N204": {
+    "coverage": "Jagadishpur (N2) - Chunarughat - Shaistaganj (N2)",
+    "category": "National Highways"
+  },
+  "N205": {
+    "coverage": "Chandipool (N2) - Sylhet (N206, N209)",
+    "category": "National Highways"
+  },
+  "N206": {
+    "coverage": "Sylhet (N205, N209) - Naiorful (N2)",
+    "category": "National Highways"
+  },
+  "N207": {
+    "coverage": "Mirpur (N2) - Srimangal - Moulvibazar (N208) - Sherpur (N2)",
+    "category": "National Highways"
+  },
+  "N208": {
+    "coverage": "Moulvibazar (N207) - Sylhet bypass (N2, N209)",
+    "category": "National Highways"
+  },
+  "N209": {
+    "coverage": "Sylhet (N205, N206) - Sylhet bypass (N2, N208)",
+    "category": "National Highways"
+  },
+  "N301": {
+    "coverage": "Progoti Smarini (N3) - Debogram (N105) under construction",
+    "category": "National Highways"
+  },
+  "N302": {
+    "coverage": "Tongi (N3) - Dhour (N501) - Yearpur (N511) - Baipal (R505) R505 connects to N5 at Nabinagar",
+    "category": "National Highways"
+  },
+  "N309": {
+    "coverage": "Khagdahar (N401) - Mymensingh bypass (N3)",
+    "category": "National Highways"
+  },
+  "N401": {
+    "coverage": "Madhupur (N4) - Khagdahar (N309) - Mymensingh (N3)",
+    "category": "National Highways"
+  },
+  "N403": {
+    "coverage": "Mirzapur Town old Section",
+    "category": "National Highways"
+  },
+  "N404": {
+    "coverage": "Road through Tangail N4 has a bypass",
+    "category": "National Highways"
+  },
+  "N405": {
+    "coverage": "Elenga (N4) - Hatikamrul (N5, N507)",
+    "category": "National Highways"
+  },
+  "N501": {
+    "coverage": "Mirpur Bridge (N5) - Berulia (N511) - Dhour (N302)",
+    "category": "National Highways"
+  },
+  "N502": {
+    "coverage": "Natore (N602) - Bogra (N5)",
+    "category": "National Highways"
+  },
+  "N503": {
+    "coverage": "Uthali (N5) - Aricha",
+    "category": "National Highways"
+  },
+  "N504": {
+    "coverage": "Kashinathpur (N5, N6) - Nagarbari",
+    "category": "National Highways"
+  },
+  "N505": {
+    "coverage": "Baderhat (N5, N513) - Kazirhat",
+    "category": "National Highways"
+  },
+  "N506": {
+    "coverage": "Mordern More (N5) - Lalbag more (N517) - Barabari (N509) - Kurigram",
+    "category": "National Highways"
+  },
+  "N507": {
+    "coverage": "Hatikamrul (N5, N405) - Banpara (N6)",
+    "category": "National Highways"
+  },
+  "N508": {
+    "coverage": "Beldanga (N5) - Dinajpur (R585)",
+    "category": "National Highways"
+  },
+  "N509": {
+    "coverage": "Baranari (N506) - Lalmonirhat — Patgram — IND (Burimari)",
+    "category": "National Highways"
+  },
+  "N510": {
+    "coverage": "Bogra (N514) - Tinmatha (N5)",
+    "category": "National Highways"
+  },
+  "N511": {
+    "coverage": "Berulia (N501) - Yearpur (N302)",
+    "category": "National Highways"
+  },
+  "N513": {
+    "coverage": "Baderhat (N5, N505) - Khayerchar",
+    "category": "National Highways"
+  },
+  "N514": {
+    "coverage": "Banani (N5) - Bogra — Matidali (N5, N515)",
+    "category": "National Highways"
+  },
+  "N515": {
+    "coverage": "Shahjanpur (N5) - Matidali Bogra eastern bypass, under construction",
+    "category": "National Highways"
+  },
+  "N516": {
+    "coverage": "Santahar (R546) - Naogaon (R545) only N highway not linked to main network",
+    "category": "National Highways"
+  },
+  "N517": {
+    "coverage": "Lalnag more (N506) - Rangpur (N5)",
+    "category": "National Highways"
+  },
+  "N518": {
+    "coverage": "road through Saidpur shortcut to N5, which has a bypass",
+    "category": "National Highways"
+  },
+  "N602": {
+    "coverage": "Harispur (N6) - Natore (N502) - Chawk Bidaynath (N6)",
+    "category": "National Highways"
+  },
+  "N603": {
+    "coverage": "Belpukur (N6) - Paba — Kashiadanga (R680)",
+    "category": "National Highways"
+  },
+  "N604": {
+    "coverage": "Pabna (N6) - Gaspara (N6)",
+    "category": "National Highways"
+  },
+  "N605": {
+    "coverage": "Rajshahi Greater Road, C&B More (N6) - Railgate (R685)",
+    "category": "National Highways"
+  },
+  "N701": {
+    "coverage": "Daulatdia Ferryghat by-pass Road",
+    "category": "National Highways"
+  },
+  "N702": {
+    "coverage": "Magura (N7) - Jessore (N708, N706, N707)",
+    "category": "National Highways"
+  },
+  "N703": {
+    "coverage": "Jhenaidah (N704) - Hamdah (N7)",
+    "category": "National Highways"
+  },
+  "N704": {
+    "coverage": "Dasuria (N6, N705) - Ruppur (N705) - Kushtia — Arappur (N7) - Jhenaidah (N703)",
+    "category": "National Highways"
+  },
+  "N705": {
+    "coverage": "Dasuria (N6, N704) - Ishwardi (Z6006) - Ruppur (N704)",
+    "category": "National Highways"
+  },
+  "N706": {
+    "coverage": "Jessore (N702, N707) - Chanchra (N7) - Benapole (N711) - IND (NH35)",
+    "category": "National Highways"
+  },
+  "N707": {
+    "coverage": "Palbari (N7, N708) - Jessore (N702, N706) - Monihar (N708) - Murail (N7)",
+    "category": "National Highways"
+  },
+  "N708": {
+    "coverage": "Palbari (N7, N707) - Jessore northern bypass (N702) - Monihar (N707)",
+    "category": "National Highways"
+  },
+  "N709": {
+    "coverage": "Khulna bypass: Phultala (N7) - Kudir Battala (N7)",
+    "category": "National Highways"
+  },
+  "N710": {
+    "coverage": "Khulna Town Old Section: Ferryghat(N7)-Dakbangla More",
+    "category": "National Highways"
+  },
+  "N711": {
+    "coverage": "Banapole bypass (N706)",
+    "category": "National Highways"
+  },
+  "N712": {
+    "coverage": "Jhenaidah Bus Terminal(N7)-Arappur Intersection(N704)-Alhera Bus Stand(N703)",
+    "category": "National Highways"
+  },
+  "N713": {
+    "coverage": "Kushtia Bypass (N705)",
+    "category": "National Highways"
+  },
+  "N714": {
+    "coverage": "Sheikh Hasina Medical University - Bongabondhu Economic Zone Connecting Road",
+    "category": "National Highways"
+  },
+  "N715": {
+    "coverage": "Satkhhira - Alipur-Bhomra Highway",
+    "category": "National Highways"
+  },
+  "N716": {
+    "coverage": "Khulna-Terokhada-Gopalganj (Chandradighulia) Road",
+    "category": "National Highways"
+  },
+  "N760": {
+    "coverage": "Khulna-Chuknagar-Satkhira Road",
+    "category": "National Highways"
+  },
+  "N765": {
+    "coverage": "Navaran-Illishpur-Kalaroa-Satkhira Road",
+    "category": "National Highways"
+  },
+  "N766": {
+    "coverage": "Satkhira Town bypass Road",
+    "category": "National Highways"
+  },
+  "N801": {
+    "coverage": "Barishal-Bhola Link Road",
+    "category": "National Highways"
+  },
+  "N802": {
+    "coverage": "2nd Buriganga Bridge Approach Road to National Highway N8",
+    "category": "National Highways"
+  },
+  "N803": {
+    "coverage": "Goalchamot (N7) - Alipur (N804) - Faridpur",
+    "category": "National Highways"
+  },
+  "N804": {
+    "coverage": "Alipur (N803) - Bhanga (N8, N805)",
+    "category": "National Highways"
+  },
+  "N805": {
+    "coverage": "Bhanga (N8, N804) - Bhatiapara (N806) - Gopalganj (R850) - Mollarhat (R856) - Fakirhat (R771) - Noapara (N7)",
+    "category": "National Highways"
+  },
+  "N806": {
+    "coverage": "Bhatiapara (N805) - Kalna - Lohagara - Narail -Jessore (N707)",
+    "category": "National Highways"
+  },
+  "N807": {
+    "coverage": "Barisal (N8) -Jhalakathi (Z8730)-Pirojpur (Z7704) Bagerhat (R771) connects to N805 at Town Noapara",
+    "category": "National Highways"
+  },
+  "N809": {
+    "coverage": "Barisal (N8) - (ferry) - Chatarmatha - (ferry) - Lakshmipur (R140) R140 connects to N104 at Chowmohani",
+    "category": "National Highways"
+  },
+  "N810": {
+    "coverage": "Hasnabad Intersection (N8) - Pangaon Container Terminal",
+    "category": "National Highways"
+  },
+  "R110": {
+    "coverage": "Jatrabari-Demra-Shimrail-Narayanganj (Chasara) Road",
+    "category": "Unknown"
+  },
+  "R111": {
+    "coverage": "Signboard at 6th km of N1Road-Narayanganj Road",
+    "category": "Unknown"
+  },
+  "R112": {
+    "coverage": "Narayanganj (Signboard)-Demra-Amulia-Rampura Road",
+    "category": "Unknown"
+  },
+  "R113": {
+    "coverage": "Madanpur-Madanganj-Sayedpur Road",
+    "category": "Unknown"
+  },
+  "R114": {
+    "coverage": "Nayapur-Araihazar-Narsingdi-Raipura Road",
+    "category": "Unknown"
+  },
+  "R120": {
+    "coverage": "Akhaura Town By-Pass Road",
+    "category": "Unknown"
+  },
+  "R140": {
+    "coverage": "Cumilla-Lalmai-Chandpur-Lakhmipur-Begumganj Road",
+    "category": "Unknown"
+  },
+  "R141": {
+    "coverage": "Lalmai-Laksham-Sonaimuri Road",
+    "category": "Unknown"
+  },
+  "R142": {
+    "coverage": "Begamganj-Sonaimuri-Ramganj Road",
+    "category": "Unknown"
+  },
+  "R143": {
+    "coverage": "Maijdi-Rajganj-Chayani-Basurhat-Chandraganj Road",
+    "category": "Unknown"
+  },
+  "R144": {
+    "coverage": "Laksam Old Section",
+    "category": "Unknown"
+  },
+  "R147": {
+    "coverage": "Lakshmipur Town Bridge-Tero Baki Road",
+    "category": "Unknown"
+  },
+  "R151": {
+    "coverage": "Baraiyerhat-Karerhat-Heako-Narayanhat-Kazir Hat-Fatikchhari (Haidchokia) Road",
+    "category": "Unknown"
+  },
+  "R152": {
+    "coverage": "Heako-Ramgarh Road",
+    "category": "Unknown"
+  },
+  "R160": {
+    "coverage": "Hathazari-Fatikchhari-Manikchhari-Matiranga-Khagrachhari Road",
+    "category": "Unknown"
+  },
+  "R161": {
+    "coverage": "Rangamati (Ghagra)-Chandragona-Bangalhalia-Bandarban Road",
+    "category": "Unknown"
+  },
+  "R162": {
+    "coverage": "Rangamati (Manikchhari)-Mohalchhari-Khagrachhari Road",
+    "category": "Unknown"
+  },
+  "R163": {
+    "coverage": "Chittagong (Mohara)-Chandragona Road",
+    "category": "Unknown"
+  },
+  "R164": {
+    "coverage": "Baraichhari-Kaptai Road",
+    "category": "Unknown"
+  },
+  "R170": {
+    "coverage": "Patiya-Anowara-Banshkhali-Toitong-Pekua-Badarkhali-Chokoria (Eidmoni) Road",
+    "category": "Unknown"
+  },
+  "R171": {
+    "coverage": "Banshkhali (Charati)-Chunti Road",
+    "category": "Unknown"
+  },
+  "R172": {
+    "coverage": "Chokoria-Baderkhali Road",
+    "category": "Unknown"
+  },
+  "R180": {
+    "coverage": "Laharpur-Jhinukmarket-Laboni More Road",
+    "category": "Unknown"
+  },
+  "R201": {
+    "coverage": "Tarabo-Demraghat Road",
+    "category": "Unknown"
+  },
+  "R202": {
+    "coverage": "Bhulta-Rupganj-Kayetpara-Rampura Road",
+    "category": "Unknown"
+  },
+  "R203": {
+    "coverage": "Bhulta-Araihazar-Bancharampur-Nabinagar-Shibpur-Radhika Road",
+    "category": "Unknown"
+  },
+  "R210": {
+    "coverage": "Shahepratap-Narsingdi Road",
+    "category": "Unknown"
+  },
+  "R211": {
+    "coverage": "Itakhola-Motkhola-Kotiadi Road",
+    "category": "Unknown"
+  },
+  "R212": {
+    "coverage": "Akdaria (C&B Bazar)-Shekher Bazar-Puradia-Agarpur Road",
+    "category": "Unknown"
+  },
+  "R220": {
+    "coverage": "Sarail-Nasirnagar-Lakhai-Habiganj Road",
+    "category": "Unknown"
+  },
+  "R240": {
+    "coverage": "Shaistaganj-Habiganj-Nabiganj-Sherpur (Auskandi) Road",
+    "category": "Unknown"
+  },
+  "R241": {
+    "coverage": "Auskandi-Raniganj-Jagannathpur-Pagla Road",
+    "category": "Unknown"
+  },
+  "R250": {
+    "coverage": "Sylhet-Golapganj-Charkhai-Zakiganj Road",
+    "category": "Unknown"
+  },
+  "R251": {
+    "coverage": "Golapganj-Dhaka Dakshin-Baraigram-Bhadeswar Road",
+    "category": "Unknown"
+  },
+  "R280": {
+    "coverage": "Sylhet-Sunamganj Road",
+    "category": "Unknown"
+  },
+  "R281": {
+    "coverage": "Rajnagar-Kulaura-Juri-Baralekha-Beanibazar-Sheola-Charkhai Road",
+    "category": "Unknown"
+  },
+  "R282": {
+    "coverage": "Juri-Lathidila Road",
+    "category": "Unknown"
+  },
+  "R301": {
+    "coverage": "Tongi-Kaliganj-Ghorashal-Pachdona Road",
+    "category": "Unknown"
+  },
+  "R302": {
+    "coverage": "Kaliganj Bazar Road",
+    "category": "Unknown"
+  },
+  "R303": {
+    "coverage": "Tongi By-Pass Road",
+    "category": "Unknown"
+  },
+  "R310": {
+    "coverage": "Joydebpur-Gazipur-Azmatpur-Itakhola Road",
+    "category": "Unknown"
+  },
+  "R311": {
+    "coverage": "Joydebpur (BARI More)-Ordnance Factory (Shahid Zaman Road)",
+    "category": "Unknown"
+  },
+  "R312": {
+    "coverage": "Rajendrapur Chowrasta-Kapasia-Toke-Motkhola Road",
+    "category": "Unknown"
+  },
+  "R313": {
+    "coverage": "Mawna-Sreepur-Goshinga-Kapasia-Aral-Sammania-Hatirdia-Monohardi (Hetemdi) Road",
+    "category": "Unknown"
+  },
+  "R314": {
+    "coverage": "Gafargaon-Bormi-Mawna Road",
+    "category": "Unknown"
+  },
+  "R315": {
+    "coverage": "Mawna-Fulbaria-Kaliakair-Dhamrai-Nabinagar (Dulivita) Road",
+    "category": "Unknown"
+  },
+  "R360": {
+    "coverage": "Mymensingh (Raghurampur)-Kishoreganj (Battali)-Bhairab (Bazar) Road",
+    "category": "Unknown"
+  },
+  "R364": {
+    "coverage": "Battoli at R360-Kishoreganj Road",
+    "category": "Unknown"
+  },
+  "R370": {
+    "coverage": "Mymensingh (D.C Office)-Raghurampur-Netrokona-Mohonganj-Jamalganj-Sunamganj Road",
+    "category": "Unknown"
+  },
+  "R371": {
+    "coverage": "Sherpur-Nakla-Phulpur-Mymensingh (Raghurampur) Road",
+    "category": "Unknown"
+  },
+  "R450": {
+    "coverage": "Jamuna Bridge (Saidabad)-Sirajganj Road",
+    "category": "Unknown"
+  },
+  "R451": {
+    "coverage": "Nalka-Sirajganj Road",
+    "category": "Unknown"
+  },
+  "R460": {
+    "coverage": "Jamalpur-Sherpur-Bangaon Road",
+    "category": "Unknown"
+  },
+  "R480": {
+    "coverage": "Elanga-Bhuanpur Road",
+    "category": "Unknown"
+  },
+  "R504": {
+    "coverage": "Hemayetpur-Singair-Manikganj Road",
+    "category": "Unknown"
+  },
+  "R505": {
+    "coverage": "Nabinagar-EPZ-Kaliakair (Chandra) Road",
+    "category": "Unknown"
+  },
+  "R506": {
+    "coverage": "Aricha (Barangail)-Ghior-Daulatpur-Tangail Road",
+    "category": "Unknown"
+  },
+  "R545": {
+    "coverage": "Bogra-Naogaon-Mohadebpur-Patnitala-Dhamoirhat-Joypurhat Road",
+    "category": "Unknown"
+  },
+  "R546": {
+    "coverage": "Railgarte-Shantahar Road",
+    "category": "Unknown"
+  },
+  "R547": {
+    "coverage": "Naogaon-Badalgachhi-Patnitala-Shapahar-Porsha-Rohonpur Road",
+    "category": "Unknown"
+  },
+  "R548": {
+    "coverage": "Naogaon-Atrai-Natore Road",
+    "category": "Unknown"
+  },
+  "R549": {
+    "coverage": "Badalgachhi-Paharpur-Joypurhat (Khanjanpur) Road",
+    "category": "Unknown"
+  },
+  "R550": {
+    "coverage": "Mokamtala-Kalai-Joypurhat Road",
+    "category": "Unknown"
+  },
+  "R555": {
+    "coverage": "Palashbari-Gaibandah Road",
+    "category": "Unknown"
+  },
+  "R556": {
+    "coverage": "Mithapukur-Shahebganj-Maddahpara-Fulbaria Road",
+    "category": "Unknown"
+  },
+  "R557": {
+    "coverage": "Madhypara-Badarganj Road",
+    "category": "Unknown"
+  },
+  "R558": {
+    "coverage": "Maheshpur at R556 to Barapukuria Road",
+    "category": "Unknown"
+  },
+  "R570": {
+    "coverage": "Sayedpur-Nilphamari Road",
+    "category": "Unknown"
+  },
+  "R585": {
+    "coverage": "Gobindagnj-Goraghat-Birampur-Fulbari-Dinajpur Road",
+    "category": "Unknown"
+  },
+  "R586": {
+    "coverage": "Fulbari Bus Stand-Dinajpur Govt. College Road",
+    "category": "Unknown"
+  },
+  "R587": {
+    "coverage": "Thakurgaon Town Old Section (Bus Stand-Railway Station)",
+    "category": "Unknown"
+  },
+  "R601": {
+    "coverage": "Pabna-Sujanagar-Natakhola Ferry Ghat (Baderhat) Road",
+    "category": "Unknown"
+  },
+  "R602": {
+    "coverage": "Nazirganj at R601 to Nazirganj Ferry Ghat Road",
+    "category": "Unknown"
+  },
+  "R603": {
+    "coverage": "Pabna-Paksey Nadi Bandar (EPZ) Road",
+    "category": "Unknown"
+  },
+  "R604": {
+    "coverage": "Tebunia-Chatmohor-Handial-Hamkuria Road",
+    "category": "Unknown"
+  },
+  "R680": {
+    "coverage": "Rajshahi-Godagari-Nawabganj Road",
+    "category": "Unknown"
+  },
+  "R681": {
+    "coverage": "Ujanpara-Bijoynagar Road (Old Part)",
+    "category": "Unknown"
+  },
+  "R685": {
+    "coverage": "Rajshahi (Bindur More)-Nawhata-Chowmasia Road",
+    "category": "Unknown"
+  },
+  "R710": {
+    "coverage": "Ahaladipur-Rajbari-Pangsha-Kumarkhali-Kushtia (Chourhash) Road",
+    "category": "Unknown"
+  },
+  "R711": {
+    "coverage": "Rajbari (Bagmara)-Joukura Ferryghat Road",
+    "category": "Unknown"
+  },
+  "R712": {
+    "coverage": "Tottipur at R771-Machpara Link Road",
+    "category": "Unknown"
+  },
+  "R713": {
+    "coverage": "Charikoal at R711-Shilahdah Link Road",
+    "category": "Unknown"
+  },
+  "R720": {
+    "coverage": "Magura-Narail Road",
+    "category": "Unknown"
+  },
+  "R744": {
+    "coverage": "Kushtia Town By-Pass Road",
+    "category": "Unknown"
+  },
+  "R745": {
+    "coverage": "Kushtia (Trimohoni)-Maherpur-Chuadanga-Jhenaidah Road",
+    "category": "Unknown"
+  },
+  "R746": {
+    "coverage": "Meherpur-Mujibnagar (BRD Camp) Road",
+    "category": "Unknown"
+  },
+  "R747": {
+    "coverage": "Kushtia (Bottoli)-Poradah-Alamdanga-Chuadanga Road",
+    "category": "Unknown"
+  },
+  "R748": {
+    "coverage": "Chuadanga-Darsana-Jibannagar-Kotchchandpur-Kaliganj Road",
+    "category": "Unknown"
+  },
+  "R749": {
+    "coverage": "Darsana-Mujibnagar Road",
+    "category": "Unknown"
+  },
+  "R755": {
+    "coverage": "Jessore (Rajarhat)-Monirampur-Keshabpur-Chuknagar Road",
+    "category": "Unknown"
+  },
+  "R770": {
+    "coverage": "Noapara-Bagerhat-Pirojpur Road",
+    "category": "Unknown"
+  },
+  "R771": {
+    "coverage": "Rupsha-Fakirhat-Bagerhat Road",
+    "category": "Unknown"
+  },
+  "R772": {
+    "coverage": "Bagerhat Town Section (Bus Stand-Basabati)",
+    "category": "Unknown"
+  },
+  "R856": {
+    "coverage": "Noapara (Katakhali)-Fakirhat-Mollahat Road",
+    "category": "Unknown"
+  },
+  "R801": {
+    "coverage": "Jurain-Chasara Road",
+    "category": "Unknown"
+  },
+  "R802": {
+    "coverage": "Bishwa Road (Kamlapur)-Bashabo-Madertek-Trimohoni-Kayetpara Road",
+    "category": "Unknown"
+  },
+  "R803": {
+    "coverage": "Jurain-Kamalapur-Shajahanpur-Abdullahpur Road",
+    "category": "Unknown"
+  },
+  "R810": {
+    "coverage": "Postagola-Chasara Road",
+    "category": "Unknown"
+  },
+  "R812": {
+    "coverage": "Fatullah (Panchaboti)-Munshiganj (Muktarpur)-Lohajang-Mawa Road",
+    "category": "Unknown"
+  },
+  "R813": {
+    "coverage": "Muktarpur Ferry Ghat to Munshiganj Road",
+    "category": "Unknown"
+  },
+  "R820": {
+    "coverage": "Zinzira-Keraniganj-Nawabganj-Dohar-Srinagar Road",
+    "category": "Unknown"
+  },
+  "R850": {
+    "coverage": "Tekerhat-Gopalganj (Haridashpur Bridge)-Mollahhat (Gonapara) Road",
+    "category": "Unknown"
+  },
+  "R860": {
+    "coverage": "Mostafapur-Madaripur-Shariatpur (Monohar Bazar)-Ibrahimpur-Harina-Chandpur (Bhatialpur) Road",
+    "category": "Unknown"
+  },
+  "R861": {
+    "coverage": "Monohar Bazar More at R860-Shariatpur Road",
+    "category": "Unknown"
+  },
+  "R870": {
+    "coverage": "Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road",
+    "category": "Unknown"
+  },
+  "R880": {
+    "coverage": "Patuakhali-Amtali-Barguna-Kacchira Road",
+    "category": "Unknown"
+  },
+  "R881": {
+    "coverage": "Amtali-Khepupara-Kuakata Road",
+    "category": "Unknown"
+  },
+  "R890": {
+    "coverage": "Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road",
+    "category": "Unknown"
+  },
+  "R891": {
+    "coverage": "Bhola (Illisha Junction)-Illisha Road",
+    "category": "Unknown"
+  },
+  "R145": {
+    "coverage": "Lashmipur Town Old Section",
+    "category": "Unknown"
+  },
+  "R560": {
+    "coverage": "Paglapir-Dalia-Tista Barrage Road",
+    "category": "Unknown"
+  },
+  "R544": {
+    "coverage": "Santahar Atrai Road",
+    "category": "Unknown"
+  },
+  "R221": {
+    "coverage": "Bir Muktijoddha Commandant Manik Chowdhury Road",
+    "category": "Unknown"
+  },
+  "R222": {
+    "coverage": "Shaestaganj (Puranabazar)- Laskarpur Railgate Link Road",
+    "category": "Unknown"
+  },
+  "R283": {
+    "coverage": "Sylhet-Sunamganj Bypass Road (3rd Hazrat Shahajalal Bridge Approach Road)",
+    "category": "Unknown"
+  },
+  "R248": {
+    "coverage": "Ambarkhana — Shahidgaon — M. C. College — Tilagar Road",
+    "category": "Unknown"
+  },
+  "R247": {
+    "coverage": "Shahi Eidgah — Kumarpara — Naiorpul Road",
+    "category": "Unknown"
+  },
+  "R249": {
+    "coverage": "Chowhatta — Kumarpara Road",
+    "category": "Unknown"
+  },
+  "Z3002": {
+    "coverage": "Dhaka Cantonment V.V.I.P Terminal Road",
+    "category": "Unknown"
+  },
+  "Z5069": {
+    "coverage": "Turag-Ruhitpur-Baorvita Road",
+    "category": "Unknown"
+  },
+  "Z3003": {
+    "coverage": "Abdullahpur-Tairmukh-Ulukhola Road",
+    "category": "Unknown"
+  },
+  "Z3012": {
+    "coverage": "Uttara-Tairmukh Road",
+    "category": "Unknown"
+  },
+  "Z1090": {
+    "coverage": "Majerchar-Mahajampur-Barapa-Rupashi-Majina-Kayetpara Road",
+    "category": "Unknown"
+  },
+  "Z3004": {
+    "coverage": "Mirpur-Pallabi-Dhaur-Kadda Road",
+    "category": "Unknown"
+  },
+  "Z3007": {
+    "coverage": "Zerabo (Tongi-EPZ Road)-Earpur-Diakhali Madrasha Road",
+    "category": "Unknown"
+  },
+  "Z8002": {
+    "coverage": "Keraniganj (Konakhola)-Kholamura-Hazratpur-Itavara-Mirpur (Hemayetpur) Road",
+    "category": "Unknown"
+  },
+  "Z3005": {
+    "coverage": "Bhasantek (Cantonment)-Dewanpara-Kalsiberibandh Road",
+    "category": "Unknown"
+  },
+  "Z3006": {
+    "coverage": "West end of Mostofa Kamal lines to Pallabi Road",
+    "category": "Unknown"
+  },
+  "Z8201": {
+    "coverage": "Kamrangirchar (Purba Rasulpur)-Kurerghat-Shialkhali-Asrafabad-Nuria Madrasha-Keraniganj (Konakhola) Road",
+    "category": "Unknown"
+  },
+  "Z8208": {
+    "coverage": "Basilla Bridge approach Road",
+    "category": "Unknown"
+  },
+  "Z1101": {
+    "coverage": "Matuail (Mirdabari)-Shampur (Dhaka-Narayanganj Road) Road",
+    "category": "Unknown"
+  },
+  "Z1102": {
+    "coverage": "Matual-New Town-Konapara-Manikandi-Shakerjaiga Road",
+    "category": "Unknown"
+  },
+  "Z8202": {
+    "coverage": "Uttar Basilla-Dakshin Basilla Link Road",
+    "category": "Unknown"
+  },
+  "Z3025": {
+    "coverage": "Kapashia-Pabur-Fuldi-Kaliganj Road",
+    "category": "Unknown"
+  },
+  "Z3009": {
+    "coverage": "Sripur-Bairagirchala Road",
+    "category": "Unknown"
+  },
+  "Z3010": {
+    "coverage": "Kaliganj-Tumulia-Ulukhola Road",
+    "category": "Unknown"
+  },
+  "Z3024": {
+    "coverage": "Master Bari-Mirzapur-Pirujali-Nuhashpalli-Mawna Road",
+    "category": "Unknown"
+  },
+  "Z3008": {
+    "coverage": "Board Bazar-Zugitalla-Gazipur Road",
+    "category": "Unknown"
+  },
+  "Z2034": {
+    "coverage": "Lakpur-Kamargaon-Gagutia-Katiadi (Motkhola) Road",
+    "category": "Unknown"
+  },
+  "Z3026": {
+    "coverage": "Mawna (M.C Bazar)-Shishupalli Road",
+    "category": "Unknown"
+  },
+  "Z5064": {
+    "coverage": "Baniajuri-Zitka-Harirampur Road",
+    "category": "Unknown"
+  },
+  "Z5063": {
+    "coverage": "Golra-Saturia Road",
+    "category": "Unknown"
+  },
+  "Z5062": {
+    "coverage": "Kawalipara-Saturia (West Nandeswari) Road",
+    "category": "Unknown"
+  },
+  "Z5061": {
+    "coverage": "Kalampur Bus Stand-Kawalipara-Balia-Warsi-Mirzapur Road",
+    "category": "Unknown"
+  },
+  "Z5066": {
+    "coverage": "Shibalay (Nali Bazar)-Nayakandi-Balla-Harirampur (Jhitka) Road",
+    "category": "Unknown"
+  },
+  "Z2042": {
+    "coverage": "Narsingdi (Morjal)-Belabo Road",
+    "category": "Unknown"
+  },
+  "Z2041": {
+    "coverage": "Narsingdi (Jongi Shibpur)-Raipura Road",
+    "category": "Unknown"
+  },
+  "Z2045": {
+    "coverage": "Panchdona (Asmandir Char)-Charsindur (Dulalpur) Road",
+    "category": "Unknown"
+  },
+  "Z2039": {
+    "coverage": "Palas-Ghorashal Road",
+    "category": "Unknown"
+  },
+  "Z2044": {
+    "coverage": "Shibpur (Itakhola-Katiadi Regional Highway)-Dulalpur-Lakpur-Monohardi (Hatirdia) Road",
+    "category": "Unknown"
+  },
+  "Z2049": {
+    "coverage": "Manohardi Link Road",
+    "category": "Unknown"
+  },
+  "Z2115": {
+    "coverage": "Monohardi (Hatemdi)-Shakerbazar Road",
+    "category": "Unknown"
+  },
+  "Z2121": {
+    "coverage": "Puradia-Belabo Road",
+    "category": "Unknown"
+  },
+  "Z2047": {
+    "coverage": "Panchdona (Dhaka-Sylhet Highway)-Danga-Palas (Ghorashal) Road",
+    "category": "Unknown"
+  },
+  "Z2035": {
+    "coverage": "Shibpur-Daripura-Kamrabo (Belabo) Road",
+    "category": "Unknown"
+  },
+  "Z2036": {
+    "coverage": "Shibpur-Bannerbazar-Palas (Taltali) Road",
+    "category": "Unknown"
+  },
+  "Z2122": {
+    "coverage": "Nayakandi (Sripur)-Chalakchar (Monohardi)-Shakerbazar Road",
+    "category": "Unknown"
+  },
+  "Z2055": {
+    "coverage": "Narsingdi (Darinabipur)-Karimpur-Jagatpur (Bancharampur)-Alokbali Road",
+    "category": "Unknown"
+  },
+  "Z2037": {
+    "coverage": "Ghorashal Tan Station-Daladia-Palash (Gabtali)-Fulbaria-Charsindur Road",
+    "category": "Unknown"
+  },
+  "Z2038": {
+    "coverage": "Jihastala-Shekherchar Road",
+    "category": "Unknown"
+  },
+  "Z2033": {
+    "coverage": "Narsingdi (Arsinagar)-Putia-Shajpur-Bandardia Road",
+    "category": "Unknown"
+  },
+  "Z2123": {
+    "coverage": "Monohardi (Kachikata)-Urulia-Bajitpur (Barachapa) Road",
+    "category": "Unknown"
+  },
+  "Z2032": {
+    "coverage": "Belabo (Dulalkandi)-Batiban-Kuliarchar (Narayanpur) Road",
+    "category": "Unknown"
+  },
+  "Z1089": {
+    "coverage": "Mograpara-Anandabazar Road",
+    "category": "Unknown"
+  },
+  "Z1064": {
+    "coverage": "Sonargaon Museum Link Road (Sonargaon Y-Junction-Falk A&C Road)",
+    "category": "Unknown"
+  },
+  "Z1061": {
+    "coverage": "Madanganj (Minarbari)-Lalgalbandh Road",
+    "category": "Unknown"
+  },
+  "Z1066": {
+    "coverage": "Sonargaon College-Kaikhertek-Nabiganj Road",
+    "category": "Unknown"
+  },
+  "Z2063": {
+    "coverage": "Rupganj-Beraid-Badda Road",
+    "category": "Unknown"
+  },
+  "Z1063": {
+    "coverage": "Bhaberchar-Gazaria-Munshiganj Road",
+    "category": "Unknown"
+  },
+  "Z8204": {
+    "coverage": "Megula-Jalalpur-Gobindapur-Tikorpur Road",
+    "category": "Unknown"
+  },
+  "Z8004": {
+    "coverage": "Munshiganj (Hatimara)-Kunderbazr-Srinagar (Sanbari) Road",
+    "category": "Unknown"
+  },
+  "Z8205": {
+    "coverage": "Padma By-Pass (Alternative Road of ZKDS Road)",
+    "category": "Unknown"
+  },
+  "Z8206": {
+    "coverage": "Dohar (Nikra)-Tikorpur (Galimpur) Road",
+    "category": "Unknown"
+  },
+  "Z8121": {
+    "coverage": "Rakabibazar-Rampal-Digirpar (Tongibari)-Banglabazar-Munshiganj (Nawagaon) Road",
+    "category": "Unknown"
+  },
+  "Z8003": {
+    "coverage": "Srinagar (Hashara)-Alampur-Shibrampur (Sirajdikhan)-Nawabganj (Kharsur) Road",
+    "category": "Unknown"
+  },
+  "Z8009": {
+    "coverage": "Dohar (Fultala)-Srinagar (Hashara) Road",
+    "category": "Unknown"
+  },
+  "Z8005": {
+    "coverage": "Rajnagar-Nimtali-Sirajdikhan Road",
+    "category": "Unknown"
+  },
+  "Z8203": {
+    "coverage": "Keraniganj (Sayedpur)-Hashara-Birtara-Singpara-Kajalpur-Nagerhat Road",
+    "category": "Unknown"
+  },
+  "Z8207": {
+    "coverage": "Dohar (Bashtala)-Kartikpur-Jhowkanda (Mainut) Road",
+    "category": "Unknown"
+  },
+  "Z3031": {
+    "coverage": "Bhaluka-Gafargaon Road",
+    "category": "Unknown"
+  },
+  "Z3030": {
+    "coverage": "Bhaluka-Shakhipur Road",
+    "category": "Unknown"
+  },
+  "Z3712": {
+    "coverage": "Haluaghat-Munshirhat-Dhobaura Road",
+    "category": "Unknown"
+  },
+  "Z3034": {
+    "coverage": "Trisal-Balipara-Nandail (Kanurampur) Road",
+    "category": "Unknown"
+  },
+  "Z3033": {
+    "coverage": "Mymensingh-Gafargaon-Toke Road",
+    "category": "Unknown"
+  },
+  "Z3032": {
+    "coverage": "Fulbaria-Ashim-Sangkivanga-Bagar Bazar Road",
+    "category": "Unknown"
+  },
+  "Z3035": {
+    "coverage": "Mymensingh-Fulbaria Road",
+    "category": "Unknown"
+  },
+  "Z3711": {
+    "coverage": "Phulpur-Haluaghat-Tinkuni More Road",
+    "category": "Unknown"
+  },
+  "Z4105": {
+    "coverage": "Fulbaria-Muktagachha Road",
+    "category": "Unknown"
+  },
+  "Z4015": {
+    "coverage": "Tangail-Delduar Road",
+    "category": "Unknown"
+  },
+  "Z4011": {
+    "coverage": "Mirzapur (Gorai)-Shakhipur Road",
+    "category": "Unknown"
+  },
+  "Z4801": {
+    "coverage": "Bhuanpur-Tarakandi Road",
+    "category": "Unknown"
+  },
+  "Z3037": {
+    "coverage": "Bhoradoba-Sagardighi-Ghatail-Bhuanpur Road",
+    "category": "Unknown"
+  },
+  "Z4012": {
+    "coverage": "Korotia-Basail-Shakhipur Road",
+    "category": "Unknown"
+  },
+  "Z4007": {
+    "coverage": "Mirzapur (Pakullah)-Delduar-Elasin Road",
+    "category": "Unknown"
+  },
+  "Z4009": {
+    "coverage": "Nagarpur (Duburia)-Salimabad-Chauhali Road",
+    "category": "Unknown"
+  },
+  "Z4016": {
+    "coverage": "Kalihati-Ratanganj-Shakipur Road",
+    "category": "Unknown"
+  },
+  "Z4019": {
+    "coverage": "Ratanganj-Balla Bazar Road",
+    "category": "Unknown"
+  },
+  "Z4017": {
+    "coverage": "Ghatail (Porabari)-Shaliajani-Gopalpur-Sarisabari (Jagannathganj) Road",
+    "category": "Unknown"
+  },
+  "Z4607": {
+    "coverage": "Sherpur-Sribardi-Bakshiganj Road",
+    "category": "Unknown"
+  },
+  "Z4617": {
+    "coverage": "Sherpur (Kanashakhola)-Ashtomitala By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z4610": {
+    "coverage": "Nakla By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z4609": {
+    "coverage": "Nakla-Shibbari Road",
+    "category": "Unknown"
+  },
+  "Z4616": {
+    "coverage": "Sribardi-Viadanga-Jinaigati Road",
+    "category": "Unknown"
+  },
+  "Z4604": {
+    "coverage": "Sherpur (Akher Bazar)-Longorpara-Sribardi (Mamdamari) Road",
+    "category": "Unknown"
+  },
+  "Z3040": {
+    "coverage": "Nalitabari-Baruazani-Bagaitala-Haluaghat Road",
+    "category": "Unknown"
+  },
+  "Z4603": {
+    "coverage": "Sherpur (Bangaon)-Nunni-Hatipagar Road",
+    "category": "Unknown"
+  },
+  "Z4619": {
+    "coverage": "Nalitabari-Papuajuri (Baily Bridge) Road",
+    "category": "Unknown"
+  },
+  "Z4602": {
+    "coverage": "Bangaon-Nalitabari Road",
+    "category": "Unknown"
+  },
+  "Z4605": {
+    "coverage": "Jhulgaon-Jhenaigati-Sandahkura Road",
+    "category": "Unknown"
+  },
+  "Z3616": {
+    "coverage": "Motkhola-Pakundia-Kishoreganj Road",
+    "category": "Unknown"
+  },
+  "Z3603": {
+    "coverage": "Kishoreganj-Karimganj-Chamraghat-Mithamain Road",
+    "category": "Unknown"
+  },
+  "Z3602": {
+    "coverage": "Kishoreganj-Nikli-Moharkona Road",
+    "category": "Unknown"
+  },
+  "Z3608": {
+    "coverage": "Nandail-Atharabari-Kendua Road",
+    "category": "Unknown"
+  },
+  "Z3614": {
+    "coverage": "Atharabari-Rasulpur Road",
+    "category": "Unknown"
+  },
+  "Z3601": {
+    "coverage": "Katiadi (Ujanchar)-Bajitpur-Astogram Road",
+    "category": "Unknown"
+  },
+  "Z3609": {
+    "coverage": "Bojra-Kuliarchar Road (Kuliarchar Thana Connecting Road )",
+    "category": "Unknown"
+  },
+  "Z3615": {
+    "coverage": "Trisal (Madhupur Bazar)-Anandaganj-Gouripur (Gazipur) Road",
+    "category": "Unknown"
+  },
+  "Z3623": {
+    "coverage": "Itna-Chamraghat Road",
+    "category": "Unknown"
+  },
+  "Z3604": {
+    "coverage": "Kishoreganj-Hossainpur Road",
+    "category": "Unknown"
+  },
+  "Z3607": {
+    "coverage": "Nandail Chowrasta-Tarail Road",
+    "category": "Unknown"
+  },
+  "Z4021": {
+    "coverage": "Jamalpur-Islampur-Dewanganj Road",
+    "category": "Unknown"
+  },
+  "Z4101": {
+    "coverage": "Jamalpur-Chchua-Muktagachha",
+    "category": "Unknown"
+  },
+  "Z4606": {
+    "coverage": "Jamalpur (Nandibazar)-Dhanua-Kamalpur-Raumari-Datbhanga Road",
+    "category": "Unknown"
+  },
+  "Z4022": {
+    "coverage": "Jamalpur-Madarganj Road",
+    "category": "Unknown"
+  },
+  "Z4023": {
+    "coverage": "Digpaith-Sarisabari-Tarakandi Road",
+    "category": "Unknown"
+  },
+  "Z4104": {
+    "coverage": "Muktagachha-Piarpur Bazar-Karnil Road",
+    "category": "Unknown"
+  },
+  "Z4614": {
+    "coverage": "Bakshiganj-Balugaon-Dewanganj Road",
+    "category": "Unknown"
+  },
+  "Z4622": {
+    "coverage": "Islampur Sub-Registrar office-Hakim Chairman Bari-Rishipara Road",
+    "category": "Unknown"
+  },
+  "Z4615": {
+    "coverage": "Bakshiganj-Sanandabari-Char Rajibpur Road",
+    "category": "Unknown"
+  },
+  "Z4025": {
+    "coverage": "Jamalpur (Pouro Gate)-Kalibari-Sharisabari (Bausi) Road",
+    "category": "Unknown"
+  },
+  "Z3703": {
+    "coverage": "Netrokona (Thakurakona)-Kalmakanda Road",
+    "category": "Unknown"
+  },
+  "Z3707": {
+    "coverage": "Netrokona-Purbadhala-Hugla-Dhobaura Road",
+    "category": "Unknown"
+  },
+  "Z3704": {
+    "coverage": "Susang Durgapur-Birishiri-Purbhadhala-Shamganj Road",
+    "category": "Unknown"
+  },
+  "Z3701": {
+    "coverage": "Netrokona-Madan-Kaliajuri Road",
+    "category": "Unknown"
+  },
+  "Z3713": {
+    "coverage": "Avoipasha-Atpara Road",
+    "category": "Unknown"
+  },
+  "Z3706": {
+    "coverage": "Netrokona-Kendua Road",
+    "category": "Unknown"
+  },
+  "Z3709": {
+    "coverage": "Netrokona-Birishiri Road",
+    "category": "Unknown"
+  },
+  "Z3710": {
+    "coverage": "Netrokona-Bishiura-Ishwarganj Road",
+    "category": "Unknown"
+  },
+  "Z1025": {
+    "coverage": "Kumira-Sandwip Road",
+    "category": "Unknown"
+  },
+  "Z1021": {
+    "coverage": "Mirsarai-Fatikchhari (Narayanhat) Road",
+    "category": "Unknown"
+  },
+  "Z1617": {
+    "coverage": "Mariamnagar-Ranirhat (Gabtal) Road",
+    "category": "Unknown"
+  },
+  "Z1095": {
+    "coverage": "Sarikait-Santoshpur Road (Delwar Khan Road in Sandwip Thana)",
+    "category": "Unknown"
+  },
+  "Z1084": {
+    "coverage": "Muhuriganj-Chittagong Beri Band Road",
+    "category": "Unknown"
+  },
+  "Z1016": {
+    "coverage": "Fouzderhat-Biman Bnader Road",
+    "category": "Unknown"
+  },
+  "Z1086": {
+    "coverage": "Sitakunda (Baroirdala)-Hazarikhil-Fatikchhari (Haidchakia) Road",
+    "category": "Unknown"
+  },
+  "Z1619": {
+    "coverage": "Raozan (Gahira)-Fatikchhari Road",
+    "category": "Unknown"
+  },
+  "Z1012": {
+    "coverage": "Rangunia (Katakhali)-Raozan Road (Hafez Bazlur Rahaman Road)",
+    "category": "Unknown"
+  },
+  "Z1087": {
+    "coverage": "Sitakunda (Barabkunda)-Dala-Dalai-Hathazari (Katirhat) Road",
+    "category": "Unknown"
+  },
+  "Z1623": {
+    "coverage": "Raozan (29th km of N106)-Brahmanchhari Road (Shahid Jafar Road)",
+    "category": "Unknown"
+  },
+  "Z1636": {
+    "coverage": "Rangunia-Bangalhalia (Sukhbilash) Road (Kalindirani Road)",
+    "category": "Unknown"
+  },
+  "Z1629": {
+    "coverage": "Raozan-Noapara (Jalepara) Road",
+    "category": "Unknown"
+  },
+  "Z1637": {
+    "coverage": "Domekhali-Madrasha Station Road",
+    "category": "Unknown"
+  },
+  "Z1065": {
+    "coverage": "Maizzertek-Boalkhali-Kanongapara-Udarbanna Road",
+    "category": "Unknown"
+  },
+  "Z1802": {
+    "coverage": "Telegati-Allaher Darber Sharif Road",
+    "category": "Unknown"
+  },
+  "Z1040": {
+    "coverage": "Gasbaria-Anowara Road",
+    "category": "Unknown"
+  },
+  "Z1054": {
+    "coverage": "Barkal Bridge-Barkal Union connecting Road",
+    "category": "Unknown"
+  },
+  "Z1804": {
+    "coverage": "Maizzertek-BFDC Fisharies Center Road (Ferry Connecting Road)",
+    "category": "Unknown"
+  },
+  "Z1019": {
+    "coverage": "Keranirhat-Gunaigari Road",
+    "category": "Unknown"
+  },
+  "Z1705": {
+    "coverage": "Baharchhara-Beri Band Road (Kazi Basirullah Miazi Road)",
+    "category": "Unknown"
+  },
+  "Z1037": {
+    "coverage": "Ghatiadanga-Monufakirhat Road (Shah Jabbaria Road)",
+    "category": "Unknown"
+  },
+  "Z1070": {
+    "coverage": "Patiya (Moneswartek)-Anowara (Kasturighat) Road",
+    "category": "Unknown"
+  },
+  "Z1071": {
+    "coverage": "Santirhat-Kaliganj Road",
+    "category": "Unknown"
+  },
+  "Z1039": {
+    "coverage": "Patiya — Chandanaish (Baltali) Road",
+    "category": "Unknown"
+  },
+  "Z1059": {
+    "coverage": "Patiya-Boalkhali (Kanongopara) Road",
+    "category": "Unknown"
+  },
+  "Z1057": {
+    "coverage": "Patiya-Annadadatta-Haidgaon-Rangunia Road",
+    "category": "Unknown"
+  },
+  "Z1026": {
+    "coverage": "Khanahat-Dopchhari-Bandarban (Dulupar) Road",
+    "category": "Unknown"
+  },
+  "Z1018": {
+    "coverage": "Shikalbaha-Anwara Road",
+    "category": "Unknown"
+  },
+  "Z1703": {
+    "coverage": "Anwara - Tailardwip Ferryghat Road",
+    "category": "Unknown"
+  },
+  "Z1036": {
+    "coverage": "Hashimpur-Rail Station-Bagicharhat-Borma Road",
+    "category": "Unknown"
+  },
+  "Z1088": {
+    "coverage": "CUFL Gate-Hazrat Mohasin Aulia (R) Mazar-Juidandi Ferry Ghat Road",
+    "category": "Unknown"
+  },
+  "Z1009": {
+    "coverage": "Ramu-Faterkul-Maricha Road",
+    "category": "Unknown"
+  },
+  "Z1503": {
+    "coverage": "Maricha (Timchhari)-Ukhia Dakbanglow Road",
+    "category": "Unknown"
+  },
+  "Z1004": {
+    "coverage": "Janatabaza-Gorokghata Road",
+    "category": "Unknown"
+  },
+  "Z1128": {
+    "coverage": "Illasha Bazar-Demusia-Bagguzzara Road",
+    "category": "Unknown"
+  },
+  "Z1132": {
+    "coverage": "Khuruskul Bridge-Chowkoldandi-Eidgah Road",
+    "category": "Unknown"
+  },
+  "Z1099": {
+    "coverage": "Teknaf-Shahparirdwip Road",
+    "category": "Unknown"
+  },
+  "Z1076": {
+    "coverage": "Kutubdia-Azam Sarak",
+    "category": "Unknown"
+  },
+  "Z1002": {
+    "coverage": "Baraitali-Magnamaghat (Paharchanda) Road",
+    "category": "Unknown"
+  },
+  "Z1125": {
+    "coverage": "Ekatabazar-Paharchanda-Pekuabazar-Magnamaghat Road",
+    "category": "Unknown"
+  },
+  "Z1124": {
+    "coverage": "Harbang-Villagerpara-Toitong Road",
+    "category": "Unknown"
+  },
+  "Z1098": {
+    "coverage": "Cox's Bazar-Teknaf Sea beach Road",
+    "category": "Unknown"
+  },
+  "Z1129": {
+    "coverage": "Pir Malek Ghat-Azam Road",
+    "category": "Unknown"
+  },
+  "Z1130": {
+    "coverage": "Dulahazra-Garzania-Kasharia-Baisari Road",
+    "category": "Unknown"
+  },
+  "Z1504": {
+    "coverage": "Ukhia-Gundhum Road (Shah Suja Road)",
+    "category": "Unknown"
+  },
+  "Z1127": {
+    "coverage": "Lakkharchar-Betua Bazar-Bagguzra Road",
+    "category": "Unknown"
+  },
+  "Z1133": {
+    "coverage": "Whykhong-Shaplapur Road",
+    "category": "Unknown"
+  },
+  "Z1126": {
+    "coverage": "Yangcha-Manikpur-Shantirbazar Road",
+    "category": "Unknown"
+  },
+  "Z1131": {
+    "coverage": "Khutakhali-Maheshkhali Road",
+    "category": "Unknown"
+  },
+  "Z1613": {
+    "coverage": "Ranirhat-Kawkhali Road",
+    "category": "Unknown"
+  },
+  "Z1814": {
+    "coverage": "Bangalhalia-Rajasthali-Farua-Bilaichhari-Barkal Road",
+    "category": "Unknown"
+  },
+  "Z1612": {
+    "coverage": "Bogachhari-Nannerchar-Longadu Road",
+    "category": "Unknown"
+  },
+  "Z1811": {
+    "coverage": "Bandarban-Chimbuk-Thanchi-Alikadam-Baisari-Naikhongchhari-Gundum Road",
+    "category": "Unknown"
+  },
+  "Z1813": {
+    "coverage": "Bandarban-Rowangchhari-Ruma Road",
+    "category": "Unknown"
+  },
+  "Z1812": {
+    "coverage": "Chimbuk-Ruma Road",
+    "category": "Unknown"
+  },
+  "Z1005": {
+    "coverage": "Chiringa (Faisakhali)-Lama-Alikadam Road",
+    "category": "Unknown"
+  },
+  "Z1001": {
+    "coverage": "Ramu-Naikhongchhari Road",
+    "category": "Unknown"
+  },
+  "Z1006": {
+    "coverage": "Chimbuk-Tonkabati-Lama Road",
+    "category": "Unknown"
+  },
+  "Z1013": {
+    "coverage": "Tonkabati-Baro Aulia Road",
+    "category": "Unknown"
+  },
+  "Z1007": {
+    "coverage": "Aziznagar-Lama (Gazalia) Road",
+    "category": "Unknown"
+  },
+  "Z1602": {
+    "coverage": "Ramgarh-Jaliapara-Sindukchhari-Mahalchhari Road",
+    "category": "Unknown"
+  },
+  "Z1604": {
+    "coverage": "Khagrachhari-Panchhari Road",
+    "category": "Unknown"
+  },
+  "Z1601": {
+    "coverage": "Manikchahri-Laksmichhari Road",
+    "category": "Unknown"
+  },
+  "Z1608": {
+    "coverage": "Matiranga-Tannakapara Road",
+    "category": "Unknown"
+  },
+  "Z1632": {
+    "coverage": "Gourangapara-Panchhari Road",
+    "category": "Unknown"
+  },
+  "Z1605": {
+    "coverage": "Dighinala-Chhoto Merung-Chongrachhari-Langadu Road",
+    "category": "Unknown"
+  },
+  "Z1603": {
+    "coverage": "Khagrachhari-Dighinala-Bagaihat-Sajek Road",
+    "category": "Unknown"
+  },
+  "Z1606": {
+    "coverage": "Baghaihat-Marisha Road",
+    "category": "Unknown"
+  },
+  "Z1610": {
+    "coverage": "Dighinala-Babuchhara-Logung-Panchhari Road",
+    "category": "Unknown"
+  },
+  "Z2812": {
+    "coverage": "Beanibazar (Bairagirbazar)-Kurerbazar-Budbaribazar-Badepasha Union-Golapganj (Sharifganj)-Fenchuganj Road",
+    "category": "Unknown"
+  },
+  "Z2014": {
+    "coverage": "Seola-Sutarkandi Road",
+    "category": "Unknown"
+  },
+  "Z2831": {
+    "coverage": "Vadeshwar-Mirganj-Fenchuganj Road",
+    "category": "Unknown"
+  },
+  "Z2022": {
+    "coverage": "Tajpur-Balaganj Road",
+    "category": "Unknown"
+  },
+  "Z2011": {
+    "coverage": "Darbast-Kanaighat-Shahbag Road",
+    "category": "Unknown"
+  },
+  "Z2012": {
+    "coverage": "Shari-Gowainghat Road",
+    "category": "Unknown"
+  },
+  "Z2013": {
+    "coverage": "Sylhet (Telikhal)-Sultanpur-Balaganj Road",
+    "category": "Unknown"
+  },
+  "Z2016": {
+    "coverage": "Rashidpur-Biswanath-Rampasha-Lama Kazi Road",
+    "category": "Unknown"
+  },
+  "Z2801": {
+    "coverage": "Sylhet-Salutikar-Companiganj-Bholaganj Road",
+    "category": "Unknown"
+  },
+  "Z2809": {
+    "coverage": "Osmani Biman Bandar Road",
+    "category": "Unknown"
+  },
+  "Z8915": {
+    "coverage": "Bagmara-Banglabazar-Daulatkhan Road",
+    "category": "Unknown"
+  },
+  "Z8905": {
+    "coverage": "Borhanuddin (Udypur)-Tazumauddin-Manpura-Sikdarhat Road",
+    "category": "Unknown"
+  },
+  "Z8913": {
+    "coverage": "Debirchar-Nazirpur-Lalmohon-Mongolsikder-Tazumuddin Road",
+    "category": "Unknown"
+  },
+  "Z8815": {
+    "coverage": "Amua-Mirukhali-Safa Road",
+    "category": "Unknown"
+  },
+  "Z7706": {
+    "coverage": "Nazirpur-Sriramkati-Swarupkati Road",
+    "category": "Unknown"
+  },
+  "Z7710": {
+    "coverage": "Banaripara (Danduat)-Nazirpur Road",
+    "category": "Unknown"
+  },
+  "Z8713": {
+    "coverage": "Kawkhali-Chirapara-Bhitabaria-Bhandaria Road",
+    "category": "Unknown"
+  },
+  "Z7711": {
+    "coverage": "Togra-Zianagar-Balipara-Kalaron-Synashi Road",
+    "category": "Unknown"
+  },
+  "Z8806": {
+    "coverage": "Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road",
+    "category": "Unknown"
+  },
+  "Z8053": {
+    "coverage": "Bauphal (Kalaiya)-Bogi-Bhola (Debirchar) Road",
+    "category": "Unknown"
+  },
+  "Z8052": {
+    "coverage": "Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road",
+    "category": "Unknown"
+  },
+  "Z8066": {
+    "coverage": "Nijbot Kajol-Thakurhat Road",
+    "category": "Unknown"
+  },
+  "Z8804": {
+    "coverage": "Galachipa (Haridebpur)-Bhadura-Shakharia Road",
+    "category": "Unknown"
+  },
+  "Z8803": {
+    "coverage": "Barguna (Chandukhali)-Betagi-Bakerganj(Padri Shibpur) Road",
+    "category": "Unknown"
+  },
+  "Z8814": {
+    "coverage": "Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road",
+    "category": "Unknown"
+  },
+  "Z8943": {
+    "coverage": "Tajumuddin-Kunjerhat Road",
+    "category": "Unknown"
+  },
+  "Z8948": {
+    "coverage": "Fakirhat-Khasherhat Road",
+    "category": "Unknown"
+  },
+  "Z8909": {
+    "coverage": "Charfeshion-Betua Road",
+    "category": "Unknown"
+  },
+  "Z8916": {
+    "coverage": "Guingerhat-Charpatar School-Dalikherhat-Daulatkhjan Heli Pad-Daulatkhan Bazar Road",
+    "category": "Unknown"
+  },
+  "Z8604": {
+    "coverage": "Madaripur-Kalkini-Bhurghata Road",
+    "category": "Unknown"
+  },
+  "Z8011": {
+    "coverage": "Pacchar-Sibchar-Madaripur Road",
+    "category": "Unknown"
+  },
+  "Z8603": {
+    "coverage": "Madaripur (Iterpool)-Pathariar Par-Gosherhat-Dasher-Agailjhara road",
+    "category": "Unknown"
+  },
+  "Z8602": {
+    "coverage": "Shariatpur-Naria Road",
+    "category": "Unknown"
+  },
+  "Z8606": {
+    "coverage": "Vojeswar By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z8012": {
+    "coverage": "Shariatpur-Janjira-Kawrakandi (Kathalbari) Road",
+    "category": "Unknown"
+  },
+  "Z8601": {
+    "coverage": "Shariatpur (Burirhat)-Goshairhat Road",
+    "category": "Unknown"
+  },
+  "Z8605": {
+    "coverage": "Kaneswar-Damudya Road",
+    "category": "Unknown"
+  },
+  "Z8065": {
+    "coverage": "Shariatpur-Ganganagar-Mongalmazirghat Road",
+    "category": "Unknown"
+  },
+  "Z7001": {
+    "coverage": "Faridpur (Maizkandi)-Boalmari-Gopalganj (Bhatiapara) Road",
+    "category": "Unknown"
+  },
+  "Z8420": {
+    "coverage": "Bijoypasha-Talarhati-Joynagarghat Road",
+    "category": "Unknown"
+  },
+  "Z8021": {
+    "coverage": "Baraitala-Muksudpur Road",
+    "category": "Unknown"
+  },
+  "Z8023": {
+    "coverage": "Garakhola - Kashiani (Bashpur) Road",
+    "category": "Unknown"
+  },
+  "Z8504": {
+    "coverage": "Tungipara Thana Complex-Patgati Road",
+    "category": "Unknown"
+  },
+  "Z8507": {
+    "coverage": "Bangabandhu Mazar Connecting Road",
+    "category": "Unknown"
+  },
+  "Z8429": {
+    "coverage": "Tungipara-Patgati By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z8414": {
+    "coverage": "Gopalganj-Chapail-Kalia Road",
+    "category": "Unknown"
+  },
+  "Z2810": {
+    "coverage": "Companiganj-Chhatak Road",
+    "category": "Unknown"
+  },
+  "Z2832": {
+    "coverage": "Daudabad-Daudpur-Vadeswar (Dhaka Dakhin) Road",
+    "category": "Unknown"
+  },
+  "Z2802": {
+    "coverage": "Gobindaganj-Chhatak-Dwarabazar Road",
+    "category": "Unknown"
+  },
+  "Z2804": {
+    "coverage": "Sunamganj-Kanchirghat-Bishambarpur Road",
+    "category": "Unknown"
+  },
+  "Z2807": {
+    "coverage": "Madanpur-Dirai-Sullah Road",
+    "category": "Unknown"
+  },
+  "Z2811": {
+    "coverage": "Dowarabazar-Sunamganj Road",
+    "category": "Unknown"
+  },
+  "Z8412": {
+    "coverage": "Bajunia-Gaindasur Road",
+    "category": "Unknown"
+  },
+  "Z8419": {
+    "coverage": "Satpar-Ramdia-Fukurah Road",
+    "category": "Unknown"
+  },
+  "Z8408": {
+    "coverage": "Borashi-Parkushali-Singerkul-Borni-Tungipara (Shingipara) Road",
+    "category": "Unknown"
+  },
+  "Z8405": {
+    "coverage": "Faridpur (Goalchamat)-Alipur (Ambikapur)-S.S.Ghat Road",
+    "category": "Unknown"
+  },
+  "Z8402": {
+    "coverage": "Faridpur-Hatgazaria-Char Bhadrason-Sadarpur Road",
+    "category": "Unknown"
+  },
+  "Z8416": {
+    "coverage": "Munshibazar - Hatgazaria Alternative Road",
+    "category": "Unknown"
+  },
+  "Z8401": {
+    "coverage": "Bhanga (Pukuria)-Sadarpur Road",
+    "category": "Unknown"
+  },
+  "Z8404": {
+    "coverage": "Talma-Nagarkanda Road",
+    "category": "Unknown"
+  },
+  "Z8406": {
+    "coverage": "Faridpur Town By-Pass",
+    "category": "Unknown"
+  },
+  "Z7002": {
+    "coverage": "Sasrail-Alphadanga Road",
+    "category": "Unknown"
+  },
+  "Z8067": {
+    "coverage": "Nagarkanda-Bhanga Road",
+    "category": "Unknown"
+  },
+  "Z7108": {
+    "coverage": "Goalanda-Faridpur-Tarail Road",
+    "category": "Unknown"
+  },
+  "Z7102": {
+    "coverage": "Rajbari-Baliakandi-Jamalpur-Madhukhali Road",
+    "category": "Unknown"
+  },
+  "Z7106": {
+    "coverage": "Goalonda (Jamtala)-Godarbazar-Pangsha-Habashpur Road",
+    "category": "Unknown"
+  },
+  "Z2834": {
+    "coverage": "Sunamganj-Netrokona-Mymensingh-Sherpur-Jamalpur (Dhanua Kamalpur) Border Road",
+    "category": "Unknown"
+  },
+  "Z2813": {
+    "coverage": "Sunamganj-Tekerhat-Badaghat-Tahirpur Road",
+    "category": "Unknown"
+  },
+  "Z2806": {
+    "coverage": "Niamatpur-Tahirpur Road",
+    "category": "Unknown"
+  },
+  "Z2805": {
+    "coverage": "Dharmapasha-Madayanagar Road",
+    "category": "Unknown"
+  },
+  "Z2003": {
+    "coverage": "Kulaura-Shamshernagar-Srimangal Road",
+    "category": "Unknown"
+  },
+  "Z2823": {
+    "coverage": "Kulaura-Juri-Fultala Road",
+    "category": "Unknown"
+  },
+  "Z2002": {
+    "coverage": "Moulvibazar-Shamshernagar-Chatla Check Post Road",
+    "category": "Unknown"
+  },
+  "Z2822": {
+    "coverage": "Kulaura-Prithmpasha-Hazipur-Sharifpur RoadRoad",
+    "category": "Unknown"
+  },
+  "Z2020": {
+    "coverage": "Fenchuganj -Maizgaon-Palbari Road (Fenchuganj link road)",
+    "category": "Unknown"
+  },
+  "Z2403": {
+    "coverage": "Habiganj-Baniyachang-Ajmiriganj-Sullah Road",
+    "category": "Unknown"
+  },
+  "Z2009": {
+    "coverage": "Shastaganj Puranbazar-Kalimnagar Road",
+    "category": "Unknown"
+  },
+  "Z2405": {
+    "coverage": "Baniachaung-Nabiganj Road",
+    "category": "Unknown"
+  },
+  "Z2008": {
+    "coverage": "Chunarughat-Satuajuri-Natunbazar Road",
+    "category": "Unknown"
+  },
+  "Z1043": {
+    "coverage": "Bancharampur-Homna Road",
+    "category": "Unknown"
+  },
+  "Z1206": {
+    "coverage": "Companiganj-Nabinagar Road",
+    "category": "Unknown"
+  },
+  "Z1202": {
+    "coverage": "Dharkhar-Akhura-Senarbadi Road",
+    "category": "Unknown"
+  },
+  "Z1201": {
+    "coverage": "Kashba-Kuti Road",
+    "category": "Unknown"
+  },
+  "Z1042": {
+    "coverage": "Eliotganj-Muradnagar-Ramchandrapur-Bancharampur Road",
+    "category": "Unknown"
+  },
+  "Z2031": {
+    "coverage": "Nabinagar-Ashuganj Road",
+    "category": "Unknown"
+  },
+  "Z1210": {
+    "coverage": "Brahmanbaria-Lalpur Road",
+    "category": "Unknown"
+  },
+  "Z1216": {
+    "coverage": "Sultanpur-Chinair-Akhura Road",
+    "category": "Unknown"
+  },
+  "Z1048": {
+    "coverage": "Laksham (Daulatganj)-Nagalkoat-Kodalia-Chewara Bazar Road",
+    "category": "Unknown"
+  },
+  "Z1402": {
+    "coverage": "Baburhat-Matlab-Pennai Road",
+    "category": "Unknown"
+  },
+  "Z1053": {
+    "coverage": "Gouripur-Homna Road",
+    "category": "Unknown"
+  },
+  "Z1205": {
+    "coverage": "Companiganj-Muradnagar-Homna Road",
+    "category": "Unknown"
+  },
+  "Z1401": {
+    "coverage": "Lalmai-Barura-Jalam-Adda-Jagatpur Road",
+    "category": "Unknown"
+  },
+  "Z1045": {
+    "coverage": "Chauddagram-Laksam Road",
+    "category": "Unknown"
+  },
+  "Z1414": {
+    "coverage": "Laksam (Sawsan Ghat)-Muddafarganj Road",
+    "category": "Unknown"
+  },
+  "Z1407": {
+    "coverage": "Muddafarganj-Chitosi-Ramganj Road",
+    "category": "Unknown"
+  },
+  "Z1041": {
+    "coverage": "Cumilla-Palpara-Burichang-Brahmanpara-Mirpur Road",
+    "category": "Unknown"
+  },
+  "Z1049": {
+    "coverage": "Mogbari-Bagmara-Bhushi-Bangadda Road",
+    "category": "Unknown"
+  },
+  "Z1046": {
+    "coverage": "Harishchar-Kashinagar-Miabazar Road",
+    "category": "Unknown"
+  },
+  "Z1029": {
+    "coverage": "Cumilla Cantonment-Barura Road",
+    "category": "Unknown"
+  },
+  "Z1221": {
+    "coverage": "Nabipur-Sreekail Road",
+    "category": "Unknown"
+  },
+  "Z1220": {
+    "coverage": "Rajachapitala-Ramchandrapur-Patchkitta Road",
+    "category": "Unknown"
+  },
+  "Z1415": {
+    "coverage": "Laksam (Binaighar)-Baiarabazar-Omarganj-Nangalkot Road",
+    "category": "Unknown"
+  },
+  "Z1052": {
+    "coverage": "Tomson Bridge-Bard-Kalirbazar-Barura Road",
+    "category": "Unknown"
+  },
+  "Z1008": {
+    "coverage": "Chandina-Debidwar Road",
+    "category": "Unknown"
+  },
+  "Z1211": {
+    "coverage": "Dulalpur-Gagutia-Ramkrishnapur-Ramchandrapur Road",
+    "category": "Unknown"
+  },
+  "Z1411": {
+    "coverage": "Khajuria-Pailgachha-Barura Road",
+    "category": "Unknown"
+  },
+  "Z1423": {
+    "coverage": "Pepulia-Lulbaria-Ratanpur-(Chandimura)-Magbari Road",
+    "category": "Unknown"
+  },
+  "Z1062": {
+    "coverage": "Daudkandi-Goalmari-Srirairerchar (Cumilla)-Matlab Utter (Changarchar) Road",
+    "category": "Unknown"
+  },
+  "Z1017": {
+    "coverage": "Chindina (Madhaya)-Maricha-Chapera-Companiganj (Nabipur) Road",
+    "category": "Unknown"
+  },
+  "Z1051": {
+    "coverage": "Changani (Kotbari)-Jungalia-Rajapara-Chaumohoni Road (CTG Old Road)",
+    "category": "Unknown"
+  },
+  "Z1022": {
+    "coverage": "Jhalam-Chandina Road",
+    "category": "Unknown"
+  },
+  "Z1028": {
+    "coverage": "Nimsar-Barura Road",
+    "category": "Unknown"
+  },
+  "Z1219": {
+    "coverage": "Nimsar-Khangsanagar-Burichaung Road",
+    "category": "Unknown"
+  },
+  "Z1403": {
+    "coverage": "Chandpur (Nanupur)-Dokanghar-Harina Road",
+    "category": "Unknown"
+  },
+  "Z8699": {
+    "coverage": "Chandra-Haimchar Road",
+    "category": "Unknown"
+  },
+  "Z1069": {
+    "coverage": "Matlab-Meghna-Dhonagoda-Beriband Road",
+    "category": "Unknown"
+  },
+  "Z1422": {
+    "coverage": "Haziganj-Ramganj-Lakshmipur Road",
+    "category": "Unknown"
+  },
+  "Z1447": {
+    "coverage": "Ramganj By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z1044": {
+    "coverage": "Gouripur-Kachua-Hajiganj Road",
+    "category": "Unknown"
+  },
+  "Z1050": {
+    "coverage": "Kaliapara-Kachua Road",
+    "category": "Unknown"
+  },
+  "Z1824": {
+    "coverage": "Doabhanga-Shaharasti (Kalibari)-Ramganj (Paniwala) Road",
+    "category": "Unknown"
+  },
+  "Z1482": {
+    "coverage": "Bakila-Tekerhat-Janatabazar-Matlab Dakhin (Narayanpur) Road",
+    "category": "Unknown"
+  },
+  "Z1445": {
+    "coverage": "Kachua-Gulbahar-Matlab Dakhin (Kashimpur) Road",
+    "category": "Unknown"
+  },
+  "Z1412": {
+    "coverage": "Chandpur-Nanupur-Chandra-Kamtabazar-Ramganj Road",
+    "category": "Unknown"
+  },
+  "Z1430": {
+    "coverage": "Chatkhil-Chitoshi-Shaharasti (Kalibari) Road",
+    "category": "Unknown"
+  },
+  "Z1441": {
+    "coverage": "Sonapur-Kabirhat-Companiganj (Bashurhat)-Daghanbhiya Road",
+    "category": "Unknown"
+  },
+  "Z1424": {
+    "coverage": "Sonapur (Mannan Nagar)-Char Jabber-Steamer Ghat Road",
+    "category": "Unknown"
+  },
+  "Z1439": {
+    "coverage": "Hatiya (Bhuiya Hat)-Jahajmara Road",
+    "category": "Unknown"
+  },
+  "Z1438": {
+    "coverage": "Tamuruddin Link Road",
+    "category": "Unknown"
+  },
+  "Z1421": {
+    "coverage": "Sonaimuri-Senbag-Kallandi Road",
+    "category": "Unknown"
+  },
+  "Z1416": {
+    "coverage": "Kallandi-Chanderhat Road",
+    "category": "Unknown"
+  },
+  "Z1448": {
+    "coverage": "Chanderhat-Bashurhat Road",
+    "category": "Unknown"
+  },
+  "Z1444": {
+    "coverage": "Feni (Temohoni)-Biroli Bazar-Sonaimuri (Gazirhat) Road",
+    "category": "Unknown"
+  },
+  "Z1405": {
+    "coverage": "Lakshmipur-Char Alaxandar-Sonapur Road",
+    "category": "Unknown"
+  },
+  "Z1429": {
+    "coverage": "Maijdee-Islamia-Uderhat-Dasherhat-New Teariganj-Bhabaniganj Road",
+    "category": "Unknown"
+  },
+  "Z1449": {
+    "coverage": "Dadpurbazar-Khalifarhat Road",
+    "category": "Unknown"
+  },
+  "Z1432": {
+    "coverage": "Daserhat-Mandari Road",
+    "category": "Unknown"
+  },
+  "Z1508": {
+    "coverage": "Dinmoni Bazar-Moulavibazar-Companirhat-Little Feni River Road",
+    "category": "Unknown"
+  },
+  "Z1420": {
+    "coverage": "Choumohoni-Chhaterpaya Road",
+    "category": "Unknown"
+  },
+  "Z1434": {
+    "coverage": "Sonagazi-Olamabazar-Chardarbeshpur-Companiganj Road",
+    "category": "Unknown"
+  },
+  "Z1450": {
+    "coverage": "Old C & B Road",
+    "category": "Unknown"
+  },
+  "Z1463": {
+    "coverage": "Lakshmipur (Iterpool)-Dalalbazar-Char Ruhita-Mollarhat-Hajimara-Haiderganj-Raipur Road",
+    "category": "Unknown"
+  },
+  "Z1436": {
+    "coverage": "Paniwala Bazar-Dashgarai Bazar Road",
+    "category": "Unknown"
+  },
+  "Z1437": {
+    "coverage": "Batara Bazar Connecting Road",
+    "category": "Unknown"
+  },
+  "Z1466": {
+    "coverage": "Nalgara (Raipur-Faridganj Road)-Kamarhat-Ramganj (Fatehpur) Road",
+    "category": "Unknown"
+  },
+  "Z1417": {
+    "coverage": "Paniwala-Dalta-Munshihat-Chatkhil (Purbo Bazar) Road",
+    "category": "Unknown"
+  },
+  "Z1426": {
+    "coverage": "Chatkhil-Chandraganj Road",
+    "category": "Unknown"
+  },
+  "Z1413": {
+    "coverage": "Char Alaxander-Ramgati Road",
+    "category": "Unknown"
+  },
+  "Z1510": {
+    "coverage": "Lakshmipur-Dattapara-Chatkhil Road",
+    "category": "Unknown"
+  },
+  "Z1472": {
+    "coverage": "Sardarbari-Khayerhat-Mollaherhat-Raipur Road",
+    "category": "Unknown"
+  },
+  "Z1034": {
+    "coverage": "Feni-Sonagazi-Muhuriganj Project Road",
+    "category": "Unknown"
+  },
+  "Z1443": {
+    "coverage": "Feni (Selonia)-Amubhuyerhat-Pratappur-Senbag Road",
+    "category": "Unknown"
+  },
+  "Z1033": {
+    "coverage": "Feni-Parsuram-Belonia Road",
+    "category": "Unknown"
+  },
+  "Z1032": {
+    "coverage": "Chhagalnaiya-Muhuriganj Road",
+    "category": "Unknown"
+  },
+  "Z1433": {
+    "coverage": "Daganbhuiyan-Taltali Bazar-Choudhurihat-Basurhat Road",
+    "category": "Unknown"
+  },
+  "Z1083": {
+    "coverage": "Feni Old Airport Road",
+    "category": "Unknown"
+  },
+  "Z1035": {
+    "coverage": "Chhagalnaiya-Parsuram Road (Captain Lik Road)",
+    "category": "Unknown"
+  },
+  "Z1425": {
+    "coverage": "Boktarmunshi-Kazirhat-Daganbhuiyan Road",
+    "category": "Unknown"
+  },
+  "Z1081": {
+    "coverage": "Fulgazi (Munshirhat)-Fazilpur Road (K.B Haider Road)",
+    "category": "Unknown"
+  },
+  "Z1030": {
+    "coverage": "Feni (Elahiganj)-Rajapur-Koriashmunshi-Daganbhuiyan (Tutali) Road",
+    "category": "Unknown"
+  },
+  "Z1031": {
+    "coverage": "Feni (Mohhamad Ali Bazar)-Chagalnaiya-Karerhat Road (Dhaka-Chittagong Old Highway)",
+    "category": "Unknown"
+  },
+  "Z1134": {
+    "coverage": "Feni (Masterpara)-Alokdia-Valukdia-Laskerhat-Chagalnaiya (Shantirhat) Road",
+    "category": "Unknown"
+  },
+  "Z6851": {
+    "coverage": "Mohanpur-Tanor Road",
+    "category": "Unknown"
+  },
+  "Z6006": {
+    "coverage": "Baneswar-Sarda-Charghat-Bagha-Lalpur-Ishwardi Road",
+    "category": "Unknown"
+  },
+  "Z6004": {
+    "coverage": "Puthia-Bagmara Road",
+    "category": "Unknown"
+  },
+  "Z6005": {
+    "coverage": "Shibpur-Durgapur-Taherpur Road",
+    "category": "Unknown"
+  },
+  "Z6809": {
+    "coverage": "Rajshahi-Damkurahat-Kakanhat-Amnura Road",
+    "category": "Unknown"
+  },
+  "Z6853": {
+    "coverage": "Mohonpur-Bagmara (Bhabaniganj) Road",
+    "category": "Unknown"
+  },
+  "Z6010": {
+    "coverage": "Rajshahi-Hatgodagari-Faliarbil-Mohonganj Road",
+    "category": "Unknown"
+  },
+  "Z6018": {
+    "coverage": "Sarda Bazar-Sadipur-Salua Malekher More-Puthia Road",
+    "category": "Unknown"
+  },
+  "Z6814": {
+    "coverage": "Baliaghata-Joubon-Boroihata (west) Road",
+    "category": "Unknown"
+  },
+  "Z6815": {
+    "coverage": "Boroihata (East)-Pakrey-Mundumala-Pakerhat-Moyenpur-Tanor Road",
+    "category": "Unknown"
+  },
+  "Z6813": {
+    "coverage": "Godagari-Nachol-Nimatpur Road",
+    "category": "Unknown"
+  },
+  "Z6856": {
+    "coverage": "Manda-Bagmara-Atrai Road",
+    "category": "Unknown"
+  },
+  "Z6855": {
+    "coverage": "Bagshara-Bagdhani-Bildharampur-Chabbisnagar-Palashbari-Gunigram Road",
+    "category": "Unknown"
+  },
+  "Z6852": {
+    "coverage": "Manda-Niamatpur-Shibpur-Porsha Road",
+    "category": "Unknown"
+  },
+  "Z5452": {
+    "coverage": "Joypurhat-Akkelpur-Badalgachhi-Road",
+    "category": "Unknown"
+  },
+  "Z5458": {
+    "coverage": "Matajihat-Chowmashia Road",
+    "category": "Unknown"
+  },
+  "Z6810": {
+    "coverage": "Manda Thana link Road (Manda-Prashadpur Road)",
+    "category": "Unknown"
+  },
+  "Z5456": {
+    "coverage": "Mahadebpur-Saraigachhi-Porsha (Nitpur) Road",
+    "category": "Unknown"
+  },
+  "Z5464": {
+    "coverage": "Patnitala-Shibpur Road",
+    "category": "Unknown"
+  },
+  "Z5469": {
+    "coverage": "Atrai-Singra Road",
+    "category": "Unknown"
+  },
+  "Z5463": {
+    "coverage": "Enayaetpur-Mohadebpur-Patakatahat (Manda) Road",
+    "category": "Unknown"
+  },
+  "Z6803": {
+    "coverage": "Nawabganj-Amnura Road",
+    "category": "Unknown"
+  },
+  "Z6806": {
+    "coverage": "Nawabganj-Uttermallick-Gomastapur Road",
+    "category": "Unknown"
+  },
+  "Z6818": {
+    "coverage": "Baragaria-Gohalbari-Jadabpur Kheya Gaht (Nayagola) Road",
+    "category": "Unknown"
+  },
+  "Z6805": {
+    "coverage": "Rahonpur-Bholahati BDR Camp Road",
+    "category": "Unknown"
+  },
+  "Z6819": {
+    "coverage": "Boalia-Chowdhala Road",
+    "category": "Unknown"
+  },
+  "Z6802": {
+    "coverage": "Kansat-Gomostapur-Rohonpur (Bhangabari) Road",
+    "category": "Unknown"
+  },
+  "Z6801": {
+    "coverage": "Nawabganj-Sibganj-Kansat-Sonamasjid-Baliadighi Check Post Road",
+    "category": "Unknown"
+  },
+  "Z6816": {
+    "coverage": "Shibganj By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z6817": {
+    "coverage": "Nachol-Gomastapur (Rohonpur) Road",
+    "category": "Unknown"
+  },
+  "Z6021": {
+    "coverage": "Chatmohor-Bhungura-Faridpur-Bagabari Road",
+    "category": "Unknown"
+  },
+  "Z6033": {
+    "coverage": "Bhangura Upazila Connecting Road",
+    "category": "Unknown"
+  },
+  "Z6034": {
+    "coverage": "Faridpur Upazila Connecting Road",
+    "category": "Unknown"
+  },
+  "Z6026": {
+    "coverage": "Madhpur-Santhia-Bera Road",
+    "category": "Unknown"
+  },
+  "Z6030": {
+    "coverage": "Ataikula (Pabna-Natore Highway)-Sujanagar Road",
+    "category": "Unknown"
+  },
+  "Z6024": {
+    "coverage": "Chinakhora (Pabna-Nagarbari National Highway)-Sujanagar Road",
+    "category": "Unknown"
+  },
+  "Z6031": {
+    "coverage": "Chatmohor-Parshadanga-Edilpur-Dangergaon-Pabna Road",
+    "category": "Unknown"
+  },
+  "Z6017": {
+    "coverage": "Chinakhora-Biswa Road-Khatupara-Bilmohisha-Santhia Road",
+    "category": "Unknown"
+  },
+  "Z6028": {
+    "coverage": "Satiakhola-Manpur-Huikhali-Kalayanpur-Chabbismile Biswa Road",
+    "category": "Unknown"
+  },
+  "Z5401": {
+    "coverage": "Sirajganj-Kazipur-Dhunat-Sherpur Road",
+    "category": "Unknown"
+  },
+  "Z5402": {
+    "coverage": "Sirajganj-Kadda-Samespur Road",
+    "category": "Unknown"
+  },
+  "Z5410": {
+    "coverage": "Enayetpur-Shahazadpur Road",
+    "category": "Unknown"
+  },
+  "Z5041": {
+    "coverage": "Raiganj (Bhuiyagati)-Nimgachhi-Taras Road",
+    "category": "Unknown"
+  },
+  "Z5406": {
+    "coverage": "Porabari-Kamarkhanda (Jamtoil)-Nalka Road",
+    "category": "Unknown"
+  },
+  "Z6032": {
+    "coverage": "Taras-Hamkuria Road",
+    "category": "Unknown"
+  },
+  "Z5047": {
+    "coverage": "Shahazadpur-Kaizuri-Chauhali Road",
+    "category": "Unknown"
+  },
+  "Z5409": {
+    "coverage": "Saidabad-Enayetpur-Khaja Yunis Ali Medical College Hospital Road",
+    "category": "Unknown"
+  },
+  "Z5408": {
+    "coverage": "Kadda-Khamarkhand-Belkuchi (Tamai) Road",
+    "category": "Unknown"
+  },
+  "Z5046": {
+    "coverage": "Ullahpara-Purnimagati-Taras Road",
+    "category": "Unknown"
+  },
+  "Z5042": {
+    "coverage": "Sirajganj-Raiganj (Chandaikona) Road",
+    "category": "Unknown"
+  },
+  "Z5405": {
+    "coverage": "Sirajganj (Bagbati)-Dhunat (Sonamukhi) Road",
+    "category": "Unknown"
+  },
+  "Z5049": {
+    "coverage": "Taras-Raniraht-Sherpur Road",
+    "category": "Unknown"
+  },
+  "Z5043": {
+    "coverage": "Taras-Gurudaspur Road",
+    "category": "Unknown"
+  },
+  "Z5403": {
+    "coverage": "Kaliakandapara-Kamarkhanda-Ullahpara (Bhutgachha) Road",
+    "category": "Unknown"
+  },
+  "Z5058": {
+    "coverage": "Ullahpara-Belkuchi Road",
+    "category": "Unknown"
+  },
+  "Z5404": {
+    "coverage": "Sirajganj (Pepulbaria)-Dhunat (Sonamukhi) Road",
+    "category": "Unknown"
+  },
+  "Z5048": {
+    "coverage": "Ullapara-Lahiri-Mohonpur-Bhangura Road",
+    "category": "Unknown"
+  },
+  "Z6014": {
+    "coverage": "Bonpara-Gopalpur-Lalpur Road",
+    "category": "Unknown"
+  },
+  "Z6015": {
+    "coverage": "Ahamadpur-Baraigram-Gurudaspur Road",
+    "category": "Unknown"
+  },
+  "Z5210": {
+    "coverage": "Kaliganj (Sherkul)-Naldangerhat-Sarkutia Bazar Road",
+    "category": "Unknown"
+  },
+  "Z6022": {
+    "coverage": "Ishwardi-Kadamchilan (Pabna-Natore Highway) Road",
+    "category": "Unknown"
+  },
+  "Z6029": {
+    "coverage": "Baraigram Thana-Zonail-Chatmohor Road",
+    "category": "Unknown"
+  },
+  "Z5211": {
+    "coverage": "Natore (Dalsarak)-Bildahar-Gurudaspur Road",
+    "category": "Unknown"
+  },
+  "Z6011": {
+    "coverage": "Lalpur (Walia)-Dayarampur (Bagatipara)-Sonapur-Shankerbagerhat-Natore Road",
+    "category": "Unknown"
+  },
+  "Z5208": {
+    "coverage": "Singra-Baruhas-Taras Road",
+    "category": "Unknown"
+  },
+  "Z6019": {
+    "coverage": "Puthia-Arani-Bagha Road",
+    "category": "Unknown"
+  },
+  "Z6020": {
+    "coverage": "Arani-Bagatipara Road",
+    "category": "Unknown"
+  },
+  "Z5209": {
+    "coverage": "Singra-Gurudaspur-Chatmohor Road",
+    "category": "Unknown"
+  },
+  "Z5025": {
+    "coverage": "Rangpur-Badarganj-Parbatipur-Dinajpur Road",
+    "category": "Unknown"
+  },
+  "Z5024": {
+    "coverage": "Modhupur-Shampur Road",
+    "category": "Unknown"
+  },
+  "Z5014": {
+    "coverage": "Rangpur Cantonment-Ghagat Bridge Road",
+    "category": "Unknown"
+  },
+  "Z5010": {
+    "coverage": "Rangpur-Shahebganj-Mahiganj-Pirgachha Road",
+    "category": "Unknown"
+  },
+  "Z5612": {
+    "coverage": "Shahebganj-Haragachha Road",
+    "category": "Unknown"
+  },
+  "Z5074": {
+    "coverage": "Dhaka-Rangpur Highway N5 to Pirganj Road",
+    "category": "Unknown"
+  },
+  "Z5020": {
+    "coverage": "Hazirhat (Rangpur-Sayedpur Highway)-Betgari-Langalerhat-Gangachhara Road",
+    "category": "Unknown"
+  },
+  "Z5075": {
+    "coverage": "Sadullahpur (Madarganj)-Pirganj-Nawabganj (Jaintapur) Road",
+    "category": "Unknown"
+  },
+  "Z5018": {
+    "coverage": "Gangachhara-Pirerhat-Monthanahat-Garagram-Nilphamari (Kishoregonj) Road",
+    "category": "Unknown"
+  },
+  "Z5015": {
+    "coverage": "Taxerhat-Laldighi-Taraganj-Kishoreganj Road",
+    "category": "Unknown"
+  },
+  "Z5023": {
+    "coverage": "Rangapur-Gangachhara Road",
+    "category": "Unknown"
+  },
+  "Z5554": {
+    "coverage": "Gaibandha-Nakaihat-Gobindaganj Road",
+    "category": "Unknown"
+  },
+  "Z5552": {
+    "coverage": "Gaibandha-Phulchhari-Varathkhali-Saghata Road",
+    "category": "Unknown"
+  },
+  "Z5613": {
+    "coverage": "Gaibandah-Sunderganj-Pirgachha (Kadamtali) Road",
+    "category": "Unknown"
+  },
+  "Z5476": {
+    "coverage": "Dhupni-Belka Road",
+    "category": "Unknown"
+  },
+  "Z5558": {
+    "coverage": "Gaibandha City By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z5555": {
+    "coverage": "Gaibandha-Balashighat Road",
+    "category": "Unknown"
+  },
+  "Z5559": {
+    "coverage": "Balashighat-Sayedpur Road",
+    "category": "Unknown"
+  },
+  "Z5551": {
+    "coverage": "Dariapur-Kamarzani Road",
+    "category": "Unknown"
+  },
+  "Z5553": {
+    "coverage": "Gaibandha-Sadullahpur Road",
+    "category": "Unknown"
+  },
+  "Z5852": {
+    "coverage": "Palashbari-Goraghat Road",
+    "category": "Unknown"
+  },
+  "Z5622": {
+    "coverage": "Kurigram-Nageswari-Bhurungamari Road",
+    "category": "Unknown"
+  },
+  "Z5621": {
+    "coverage": "Kurigram-Ulipur-Chillmari Road",
+    "category": "Unknown"
+  },
+  "Z5614": {
+    "coverage": "Kurigram-Rajarhat Road",
+    "category": "Unknown"
+  },
+  "Z5611": {
+    "coverage": "Rajarhat-Teesta Road",
+    "category": "Unknown"
+  },
+  "Z5623": {
+    "coverage": "Ulipur-Bojra-Chillmari Road",
+    "category": "Unknown"
+  },
+  "Z5617": {
+    "coverage": "Nageswari-Newasi-Kharibari-Fulbari Road",
+    "category": "Unknown"
+  },
+  "Z5624": {
+    "coverage": "Bhurungamari-Sonahat land port-Madarganj-Bhitarband-Nageswari Road",
+    "category": "Unknown"
+  },
+  "Z5616": {
+    "coverage": "Nageswari-Kularhat (Fulbari)-Kauwahaga-Kashipur-Lalmonirhat Road",
+    "category": "Unknown"
+  },
+  "Z5901": {
+    "coverage": "Lalmonirhat-Phulbari Road",
+    "category": "Unknown"
+  },
+  "Z5902": {
+    "coverage": "Lalmonirhat-Haragachha Road",
+    "category": "Unknown"
+  },
+  "Z5904": {
+    "coverage": "Patgram By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z5903": {
+    "coverage": "Patgram-Dohagram-Angarpota Sit Mohal Road",
+    "category": "Unknown"
+  },
+  "Z5907": {
+    "coverage": "Lalmonirhat-Mogalhat Landport Road",
+    "category": "Unknown"
+  },
+  "Z5053": {
+    "coverage": "Kahalu Thana Connecting Road",
+    "category": "Unknown"
+  },
+  "Z5035": {
+    "coverage": "Mokamtala (Bogra-Rangpur National Highway)-Sonatala-Harikhali-Hatsherpur-Sariakandi Road",
+    "category": "Unknown"
+  },
+  "Z5507": {
+    "coverage": "Mokamtala (Kashipur)-Guzia-Shibganj (Amtali) Road",
+    "category": "Unknown"
+  },
+  "Z5032": {
+    "coverage": "Bogra-Sariakandi Road",
+    "category": "Unknown"
+  },
+  "Z5071": {
+    "coverage": "Borobila-Vanderbari Road",
+    "category": "Unknown"
+  },
+  "Z5040": {
+    "coverage": "Sultanganj (Lichutala)-Madla-Bagbari (Kadamtala)-Gabtali (Pachmile) Road",
+    "category": "Unknown"
+  },
+  "Z5072": {
+    "coverage": "Dhunot-Nanglu-Baliadighi-Poradah-Patch Mile-Gabtali-Pirgachha-Mokamtala (Chowkirghat) Road",
+    "category": "Unknown"
+  },
+  "Z5050": {
+    "coverage": "Bagbari-Nanglu Road",
+    "category": "Unknown"
+  },
+  "Z5073": {
+    "coverage": "Prothomachew-Pirgachha-Matidali Road",
+    "category": "Unknown"
+  },
+  "Z5459": {
+    "coverage": "Nasratpur-Murail-Raikhali-Beragram Road",
+    "category": "Unknown"
+  },
+  "Z5467": {
+    "coverage": "Raikali-Tilokpur Road",
+    "category": "Unknown"
+  },
+  "Z5505": {
+    "coverage": "Mahashastan (Bogra-Rangpur National Highway)-Shibganj-Amtoli Road",
+    "category": "Unknown"
+  },
+  "Z5202": {
+    "coverage": "Nandigram (Omarpur)-Talora-Dhupchachhia-Zianagar-Akkelpur (Gopinathpur) Road",
+    "category": "Unknown"
+  },
+  "Z5207": {
+    "coverage": "Nandigram (Katham)-Kaliganj-Raninagar Road",
+    "category": "Unknown"
+  },
+  "Z5051": {
+    "coverage": "Baiguni-Durgahata-Poradah Road",
+    "category": "Unknown"
+  },
+  "Z5472": {
+    "coverage": "Adamdighi-Santahar Sailo-Raninagar Road",
+    "category": "Unknown"
+  },
+  "Z5034": {
+    "coverage": "Sherpur-Kaigari-Nandigram Road",
+    "category": "Unknown"
+  },
+  "Z5039": {
+    "coverage": "Bogra (Jhapgari)-Khetlal Road",
+    "category": "Unknown"
+  },
+  "Z5471": {
+    "coverage": "Kahalu-Panchpir-Dolahar-Choumohoni-Adamdighi (Bagdaha) Road",
+    "category": "Unknown"
+  },
+  "Z5501": {
+    "coverage": "Joypurhat-Khetlal Road",
+    "category": "Unknown"
+  },
+  "Z5504": {
+    "coverage": "Joypurhat By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z5508": {
+    "coverage": "Khetlal-Gopinathpur-Akkelpur Road",
+    "category": "Unknown"
+  },
+  "Z5503": {
+    "coverage": "Joypurhat-Panchbibi-Hili Road",
+    "category": "Unknown"
+  },
+  "Z5855": {
+    "coverage": "Joypurhat-Rajabirat-Gobindaganj Road",
+    "category": "Unknown"
+  },
+  "Z5478": {
+    "coverage": "Akkelpur-Tilokpur-Santhahar Road",
+    "category": "Unknown"
+  },
+  "Z5509": {
+    "coverage": "Hili-Shalaipur-Kalai Road",
+    "category": "Unknown"
+  },
+  "Z5856": {
+    "coverage": "Panchbibi-Dugdugi-Goraghat Road",
+    "category": "Unknown"
+  },
+  "Z5801": {
+    "coverage": "Kholahati Cantonment Road",
+    "category": "Unknown"
+  },
+  "Z5002": {
+    "coverage": "Thakurgaon-Nekmand-Pirganj-Birganj Road",
+    "category": "Unknown"
+  },
+  "Z5029": {
+    "coverage": "Nekmand-Dharmagarh Road",
+    "category": "Unknown"
+  },
+  "Z5803": {
+    "coverage": "Dinajpur-Birol Road",
+    "category": "Unknown"
+  },
+  "Z5006": {
+    "coverage": "Dinajpur-Bochaganj-Bakultala Road",
+    "category": "Unknown"
+  },
+  "Z5007": {
+    "coverage": "Birganj-Kaharol Road",
+    "category": "Unknown"
+  },
+  "Z5011": {
+    "coverage": "Sayedpur-Parbatipur Road",
+    "category": "Unknown"
+  },
+  "Z5008": {
+    "coverage": "Birganj-Khansama-Darwani Road",
+    "category": "Unknown"
+  },
+  "Z5005": {
+    "coverage": "Khansama-Ranirbandar Road",
+    "category": "Unknown"
+  },
+  "Z5804": {
+    "coverage": "Chirirbandar-Amtali Bazar-Amtali Simantha Fari Road",
+    "category": "Unknown"
+  },
+  "Z5561": {
+    "coverage": "Madhayapara-Aftabganj-Nawabganj Road",
+    "category": "Unknown"
+  },
+  "Z5857": {
+    "coverage": "Fulbari-Parbatipur Road",
+    "category": "Unknown"
+  },
+  "Z5854": {
+    "coverage": "Birampur (Bijon)-Hakimpur Road",
+    "category": "Unknown"
+  },
+  "Z5851": {
+    "coverage": "Birampur-Nawabganj-Bhaduria Road",
+    "category": "Unknown"
+  },
+  "Z5802": {
+    "coverage": "Dinajpur-Khanpur Road",
+    "category": "Unknown"
+  },
+  "Z5004": {
+    "coverage": "Ranishankoil-Haripur Road",
+    "category": "Unknown"
+  },
+  "Z5055": {
+    "coverage": "Thakurgaon-Pirganj Road",
+    "category": "Unknown"
+  },
+  "Z5059": {
+    "coverage": "Thakurgaon-Ruhea Road",
+    "category": "Unknown"
+  },
+  "Z5001": {
+    "coverage": "Panchagarh-Goalpara-Ruhea Road",
+    "category": "Unknown"
+  },
+  "Z5003": {
+    "coverage": "Boda-Debiganj-Domar Road",
+    "category": "Unknown"
+  },
+  "Z5060": {
+    "coverage": "Bhajanpur (Nijbari)-Atarkhari-Mainaguri-Mirganj Road",
+    "category": "Unknown"
+  },
+  "Z5021": {
+    "coverage": "Panchagarh Sugarmill-Benghari-Maria-Saldanga-Debiganj Road",
+    "category": "Unknown"
+  },
+  "Z5707": {
+    "coverage": "Nilphamari-Domar Road",
+    "category": "Unknown"
+  },
+  "Z5701": {
+    "coverage": "Nilphamari-Jaldhaka Road",
+    "category": "Unknown"
+  },
+  "Z5022": {
+    "coverage": "Nilphamari (Tengonmari)-Kishoreganj Road",
+    "category": "Unknown"
+  },
+  "Z5703": {
+    "coverage": "Jaldhaka-Dimla-Tunirhat Road",
+    "category": "Unknown"
+  },
+  "Z5054": {
+    "coverage": "Boragarirhat-Khoksharhat-Dimla Road",
+    "category": "Unknown"
+  },
+  "Z5709": {
+    "coverage": "Nilphamari By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z5706": {
+    "coverage": "Domar-Chilahati-Volaganj Road",
+    "category": "Unknown"
+  },
+  "Z7041": {
+    "coverage": "Khulna (Rupsha)-Srifaltala-Terokhada Road",
+    "category": "Unknown"
+  },
+  "Z7042": {
+    "coverage": "Srifaltala-Senerbazar Road",
+    "category": "Unknown"
+  },
+  "Z7606": {
+    "coverage": "Gollamari-Batiaghata-Dacope-Nalian Forest Road",
+    "category": "Unknown"
+  },
+  "Z7043": {
+    "coverage": "Fultala-Shahapur-Miximil-Dumuria Road",
+    "category": "Unknown"
+  },
+  "Z7040": {
+    "coverage": "Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road",
+    "category": "Unknown"
+  },
+  "Z7047": {
+    "coverage": "Terakhada-Barnal-Kalia Road",
+    "category": "Unknown"
+  },
+  "Z7045": {
+    "coverage": "Terakhada-Mollahat Road",
+    "category": "Unknown"
+  },
+  "Z7610": {
+    "coverage": "Koyra-Noabaki-Shamnagar Road",
+    "category": "Unknown"
+  },
+  "Z7604": {
+    "coverage": "Betgram-Tala-Paikgachha-Koyra Road",
+    "category": "Unknown"
+  },
+  "Z7615": {
+    "coverage": "Dacope-Barobaria-Magurkhali-Tala Road",
+    "category": "Unknown"
+  },
+  "Z7603": {
+    "coverage": "Satkhira-Asasuni-Goaldanga-Paikgachha Road",
+    "category": "Unknown"
+  },
+  "Z7607": {
+    "coverage": "Satkhira (Shakhipur)-Debhata Road",
+    "category": "Unknown"
+  },
+  "Z7613": {
+    "coverage": "Tala-Islamkati-Sujanshaha-Satkhira (Patkelghata) Road",
+    "category": "Unknown"
+  },
+  "Z7617": {
+    "coverage": "Kaliganj-Shyamnagar-Vetkhali Road",
+    "category": "Unknown"
+  },
+  "Z7609": {
+    "coverage": "Banshipur-Munshiganj road",
+    "category": "Unknown"
+  },
+  "Z7602": {
+    "coverage": "Satkhira-Shakhipur-Kaliganj Road",
+    "category": "Unknown"
+  },
+  "Z7552": {
+    "coverage": "Keshabpur- Trimohoni- Saraskathi- Kalaroa Road",
+    "category": "Unknown"
+  },
+  "Z7618": {
+    "coverage": "Ashasuni-shamnagar Road",
+    "category": "Unknown"
+  },
+  "Z7708": {
+    "coverage": "Bagerhat-Chitolmari Road",
+    "category": "Unknown"
+  },
+  "Z7703": {
+    "coverage": "Bagerhat (Signboard)-Kachua Road",
+    "category": "Unknown"
+  },
+  "Z7801": {
+    "coverage": "Chitalmari-Fakirhat (Faltita) Road",
+    "category": "Unknown"
+  },
+  "Z7702": {
+    "coverage": "Signboard-Morelganj-Sharankhola-Rainda-Bogi Road",
+    "category": "Unknown"
+  },
+  "Z7705": {
+    "coverage": "Morelganj Ferryghat-Zianagar (Togra Ferryghat) Road",
+    "category": "Unknown"
+  },
+  "Z7719": {
+    "coverage": "Bagerhat Circuit House-Dewanbati-Khegraghat-Karapara Road",
+    "category": "Unknown"
+  },
+  "Z7717": {
+    "coverage": "Bagerhat-Rampal -Mongla Road",
+    "category": "Unknown"
+  },
+  "Z7701": {
+    "coverage": "Morelganj (CARE Bazar) -Mongla Road",
+    "category": "Unknown"
+  },
+  "Z7054": {
+    "coverage": "Chitalmari-Tungipara (Patgati) Road",
+    "category": "Unknown"
+  },
+  "Z7718": {
+    "coverage": "Kachua (Pingoria)-Talighati-Herma-Rampal Road",
+    "category": "Unknown"
+  },
+  "Z7716": {
+    "coverage": "Nazirpur-Kuchua Road",
+    "category": "Unknown"
+  },
+  "Z7501": {
+    "coverage": "Bagherpara link Road",
+    "category": "Unknown"
+  },
+  "Z7031": {
+    "coverage": "Churamonkathi-Chaugachha Road",
+    "category": "Unknown"
+  },
+  "Z7551": {
+    "coverage": "Monirampur-Jikorgachha Road",
+    "category": "Unknown"
+  },
+  "Z7050": {
+    "coverage": "Jessore Cantonment-Shadinata Sharini Road",
+    "category": "Unknown"
+  },
+  "Z7553": {
+    "coverage": "Keshabpur (Bhagati Baisa) -Chinra Bazar- Sagardari- Betgram (18 Miles) Road",
+    "category": "Unknown"
+  },
+  "Z7048": {
+    "coverage": "Prembag-Dakuria-Sundali Bazar Road",
+    "category": "Unknown"
+  },
+  "Z7057": {
+    "coverage": "Kaligang-Khajura-Raipur-Bagharpara Road",
+    "category": "Unknown"
+  },
+  "Z7058": {
+    "coverage": "Sutighata-Dakuria Road",
+    "category": "Unknown"
+  },
+  "Z7059": {
+    "coverage": "Bolianpur-Kuada Road",
+    "category": "Unknown"
+  },
+  "Z7619": {
+    "coverage": "Modhanpur College More-Trimohoni Bazar Road",
+    "category": "Unknown"
+  },
+  "Z7049": {
+    "coverage": "Prembag-Bahirghat Road",
+    "category": "Unknown"
+  },
+  "Z7505": {
+    "coverage": "Narail Town By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z7503": {
+    "coverage": "Narail-Lohagara Bazar-Naragati Road",
+    "category": "Unknown"
+  },
+  "Z7502": {
+    "coverage": "Narail-Kalia Road",
+    "category": "Unknown"
+  },
+  "Z7030": {
+    "coverage": "Narail-Fultala Road",
+    "category": "Unknown"
+  },
+  "Z7506": {
+    "coverage": "Lohagara-Nahata-Kalishankarpur-Mohammadpur Road",
+    "category": "Unknown"
+  },
+  "Z7504": {
+    "coverage": "Narail (Tularampur)-Maijpara-Shalika Road",
+    "category": "Unknown"
+  },
+  "Z7021": {
+    "coverage": "Arpara-Kaliganj Road",
+    "category": "Unknown"
+  },
+  "Z7012": {
+    "coverage": "Magura-Mohammadpur Road",
+    "category": "Unknown"
+  },
+  "Z7201": {
+    "coverage": "Arpara-Salikha Road",
+    "category": "Unknown"
+  },
+  "Z7011": {
+    "coverage": "Magura-Sripur Road",
+    "category": "Unknown"
+  },
+  "Z7007": {
+    "coverage": "Ramnagar-Hazratala-Sripur Road",
+    "category": "Unknown"
+  },
+  "Z7008": {
+    "coverage": "Sripur-Langalbandh-Wapdah More Road",
+    "category": "Unknown"
+  },
+  "Z7457": {
+    "coverage": "Jhenaidah-Harinakunda Road",
+    "category": "Unknown"
+  },
+  "Z7023": {
+    "coverage": "Khalishpur-Maheshpur-Dattanagar-Jinnanagar-Jadabpur Road",
+    "category": "Unknown"
+  },
+  "Z7405": {
+    "coverage": "Shekhpara-Shailkupa-Langalbandh Road",
+    "category": "Unknown"
+  },
+  "Z7024": {
+    "coverage": "Gopalpur-Talsar Bazar-Kotchandpur-Azampur-Maheshpur Road",
+    "category": "Unknown"
+  },
+  "Z7460": {
+    "coverage": "Dakbanglabazar-Gopalpur-Kaliganj Road",
+    "category": "Unknown"
+  },
+  "Z7404": {
+    "coverage": "Amtali-Tailtupi-Alamdanga Road",
+    "category": "Unknown"
+  },
+  "Z7488": {
+    "coverage": "Nayanipara-Joluli-Jadabpur-Gopalpur Road",
+    "category": "Unknown"
+  },
+  "Z7489": {
+    "coverage": "Chandpara-Talina-Jalalpur-Talsar Bazar-Drolaxmipur-Khalishpur Road",
+    "category": "Unknown"
+  },
+  "Z7411": {
+    "coverage": "Bheramara-Daulatpur Road",
+    "category": "Unknown"
+  },
+  "Z7452": {
+    "coverage": "Gangni-Kathuli-Kulbaria Road",
+    "category": "Unknown"
+  },
+  "Z7451": {
+    "coverage": "8th km of Kushtia-Meherpur Highway to Miupur Thana Connecting Road",
+    "category": "Unknown"
+  },
+  "Z7409": {
+    "coverage": "Bheramara Rail Station-Bheramara Ferry Ghat Road",
+    "category": "Unknown"
+  },
+  "Z7464": {
+    "coverage": "Sadarpur-Jutiadanga-Ashannagar-Hatbolia Road",
+    "category": "Unknown"
+  },
+  "Z7105": {
+    "coverage": "Ishwardi-Paikpara-Mirzapur-Fultala More-Singra-Fulbaria-Bhabaniganj Road",
+    "category": "Unknown"
+  },
+  "Z7463": {
+    "coverage": "Bheramara (GK Bandh 3no Bridge)- Mirpur Thana Road",
+    "category": "Unknown"
+  },
+  "Z7461": {
+    "coverage": "Mirpur-Shehala-Pragpur BDR Camp Road",
+    "category": "Unknown"
+  },
+  "Z7465": {
+    "coverage": "Sadarpur Bazar-Halsha Rail Bazar Road",
+    "category": "Unknown"
+  },
+  "Z7412": {
+    "coverage": "Daulatpur-Daulatkhali-Mathurapur High School Bazar Road",
+    "category": "Unknown"
+  },
+  "Z7466": {
+    "coverage": "Meherpur-North Shalikha-Kaligangni Road",
+    "category": "Unknown"
+  },
+  "Z7468": {
+    "coverage": "Chandpur-Dargatala-Jadukhali-Jatarpur Road",
+    "category": "Unknown"
+  },
+  "Z7467": {
+    "coverage": "Amjhupi-Madandanga-Shampur-Noapara Road",
+    "category": "Unknown"
+  },
+  "Z7456": {
+    "coverage": "Bamundi-Hatboalia-Alamdanga Road",
+    "category": "Unknown"
+  },
+  "Z8031": {
+    "coverage": "Gouranadi-Paisarhat-Kotalipara-Gopalganj Road",
+    "category": "Unknown"
+  },
+  "Z8049": {
+    "coverage": "Agailjhara By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z8038": {
+    "coverage": "Shikarpur-Uzirpur Road",
+    "category": "Unknown"
+  },
+  "Z8043": {
+    "coverage": "Hizla-Mehindiganj-Barisal Road",
+    "category": "Unknown"
+  },
+  "Z8034": {
+    "coverage": "Rahamatpur-Babuganj-Muladi-Hizla Road",
+    "category": "Unknown"
+  },
+  "Z8810": {
+    "coverage": "Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road",
+    "category": "Unknown"
+  },
+  "Z8037": {
+    "coverage": "Barisal-Karapur-Nabagram-Swarupkathi Road",
+    "category": "Unknown"
+  },
+  "Z8044": {
+    "coverage": "Barisal (Dinerpool)-Laxmipasha-Dumki Road",
+    "category": "Unknown"
+  },
+  "Z8040": {
+    "coverage": "Barisal (Beltala)-Shaistabad-Fakirbari (Sarikol) Road",
+    "category": "Unknown"
+  },
+  "Z8910": {
+    "coverage": "Barisal (Bairagirpool)-Tumchar-Bauphaul Road",
+    "category": "Unknown"
+  },
+  "Z8702": {
+    "coverage": "Rajapur-Naikati-Bekutia-Pirojpur Road",
+    "category": "Unknown"
+  },
+  "Z8705": {
+    "coverage": "Bhandaria-Paikhkhali-Kathalia Road",
+    "category": "Unknown"
+  },
+  "Z8703": {
+    "coverage": "Jhalokati (Dhanshiri)-Kawkhali Road",
+    "category": "Unknown"
+  },
+  "Z8709": {
+    "coverage": "Satpakhia (Barishal-Jhalokati Highway)-Nalcity Road",
+    "category": "Unknown"
+  },
+  "Z8708": {
+    "coverage": "Rajapur-Kathalia-Amua-Bamna-Patharghata Road",
+    "category": "Unknown"
+  },
+  "Z8706": {
+    "coverage": "Centrehat-Paikkhali Road",
+    "category": "Unknown"
+  },
+  "Z8056": {
+    "coverage": "Dapdapia-Nalcity-Mollaherhat (Moheshpur) Road (Z.A Bhutto Road)",
+    "category": "Unknown"
+  },
+  "Z8054": {
+    "coverage": "Nalchity-Ponabalia-Jhalokati Road",
+    "category": "Unknown"
+  },
+  "Z8058": {
+    "coverage": "Nalchity-Pir Moazzam Hossain Road",
+    "category": "Unknown"
+  },
+  "Z8062": {
+    "coverage": "Pir Moazzem Hossain (Baisakia)- Rajapur (Mirerhat) Road",
+    "category": "Unknown"
+  },
+  "Z8704": {
+    "coverage": "Jhalokati-Nabagram-Gava-Ekshirapara Road",
+    "category": "Unknown"
+  },
+  "Z8716": {
+    "coverage": "Jhalokati-Kirtipasha-Swarupkati Road",
+    "category": "Unknown"
+  },
+  "Z8711": {
+    "coverage": "Bhandaria-Banaihat Road",
+    "category": "Unknown"
+  },
+  "Z8717": {
+    "coverage": "Naikati-Bhandaria Road",
+    "category": "Unknown"
+  },
+  "Z8047": {
+    "coverage": "Bakerkati-Nalchity Road",
+    "category": "Unknown"
+  },
+  "Z8740": {
+    "coverage": "Kathalia (Bandaghata)-Kaikhali-Banaihat Road",
+    "category": "Unknown"
+  },
+  "Z8033": {
+    "coverage": "Gariarpar-Banaripara-Sawrupkati-Kawkhali-Naikati Road",
+    "category": "Unknown"
+  },
+  "Z8048": {
+    "coverage": "Chaker-Banaripara Road",
+    "category": "Unknown"
+  },
+  "Z8750": {
+    "coverage": "Shekerhat connecting Road",
+    "category": "Unknown"
+  },
+  "Z7709": {
+    "coverage": "Priojpur Kheya Ghat-Hularhat Road",
+    "category": "Unknown"
+  },
+  "Z7704": {
+    "coverage": "Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road",
+    "category": "Unknown"
+  },
+  "Z7715": {
+    "coverage": "Pirojpur-Nazirpur By-Pass Road",
+    "category": "Unknown"
+  },
+  "Z8701": {
+    "coverage": "Charkhali-Tushkhali-Mathbaria-Patharghata Road",
+    "category": "Unknown"
+  },
+  "Z5704": {
+    "coverage": "Domar (Boragarihat) - Jaldhaka (Bhadur Dargha) Road",
+    "category": "Unknown"
+  },
+  "Z5070": {
+    "coverage": "Gabtali Swarighat Road",
+    "category": "Unknown"
+  },
+  "Z3617": {
+    "coverage": "Pakundia - Toke Bazar Road",
+    "category": "Unknown"
+  },
+  "Z8430": {
+    "coverage": "Tungipara - Kotalipara (Majbadi) Road",
+    "category": "Unknown"
+  },
+  "Z8607": {
+    "coverage": "Naria - Pathanbadi- Nayan - Matbarkandi - Dagri - Shaora Road",
+    "category": "Unknown"
+  },
+  "Z4018": {
+    "coverage": "Baushi - Gopalpur - Bhuapur Road",
+    "category": "Unknown"
+  },
+  "Z8608": {
+    "coverage": "Tekerhat (Highway Point) - Dattapara - Surjanagar Road",
+    "category": "Unknown"
+  },
+  "Z1047": {
+    "coverage": "HarishChar- Bijrabazar Road",
+    "category": "Unknown"
+  },
+  "Z2010": {
+    "coverage": "Murarbandh Dargahsharif Road",
+    "category": "Unknown"
+  },
+  "Z1620": {
+    "coverage": "Nazir Hat - Maijbhandar Road",
+    "category": "Unknown"
+  },
+  "Z1618": {
+    "coverage": "Bhatiari - Hathajari Road",
+    "category": "Unknown"
+  },
+  "Z5019": {
+    "coverage": "Police Line- Jalkar- Sothapir- Pakkar Matha Road",
+    "category": "Unknown"
+  },
+  "Z3036": {
+    "coverage": "Saheb Ali Road",
+    "category": "Unknown"
+  },
+  "Z3038": {
+    "coverage": "Town Hall-Ganginarpar-Relir more Road",
+    "category": "Unknown"
+  },
+  "Z3039": {
+    "coverage": "Charpara-Patgudham Road",
+    "category": "Unknown"
+  },
+  "Z7458": {
+    "coverage": "Garagonj-Shailkupa Road",
+    "category": "Unknown"
+  },
+  "Z7845": {
+    "coverage": "Jashore (Pulerhat)- Rajganj- Sagardari- Kumira Road",
+    "category": "Unknown"
+  },
+  "Z7554": {
+    "coverage": "Keshabpur- Sagardari Madhu Sarak",
+    "category": "Unknown"
+  }
+}
