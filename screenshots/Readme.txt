@@ -1,1 +1,1 @@
-This folder will contain screenshots from first stage reasoning
+This folder will contain screenshots from second stage reasoning (Grid Scan)
