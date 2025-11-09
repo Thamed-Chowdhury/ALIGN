@@ -31,6 +31,14 @@ It combines:
 
 ---
 
+## 🧩 System Architecture
+
+The figure below illustrates the end-to-end **ALIGN** pipeline integrating textual reasoning, map-based spatial verification, OCR processing, and vision–language inference.
+
+<img width="975" height="1281" alt="image" src="https://github.com/user-attachments/assets/985b5673-8ad3-45a8-bcd3-0f3193ee4abb" />
+
+*Figure: ALIGN multi-stage reasoning pipeline combining text extraction, OCR validation, grid-based spatial search, and Gemini VLM-based verification.*
+
 ## 📁 Repository Contents
 
 | File / Folder | Description |
