@@ -15,7 +15,7 @@ Without GPU support, OCR will take several minutes **per image**, making the end
 
 🧩 **Recommended Setup:**
 - Use **Python 3.10.18** (PyTorch is most stable on this version as of 2025).  
-- Use a **GPU-enabled Conda environment** with CUDA properly configured (11.8 / 12.1).  
+- Use a **GPU-enabled Conda environment** with CUDA properly configured (Tested on CUDA 12.9).  
 - Follow PyTorch’s official installation instructions for your CUDA version.
 
 ---
@@ -96,18 +96,8 @@ pip install thefuzz python-Levenshtein selenium
 
 ### 3️⃣ (Optional) GPU Setup
 
-Install the correct PyTorch version for your CUDA:
-
-```bash
-# Example for CUDA 12.1
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-```
-
-If you only have a CPU (⚠️ very slow):
-
-```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-```
+To have GPU support in EasyOCR (which is strongly recommended), install the correct PyTorch version for your CUDA. 
+For detailed instructions on how to install CUDA, visit: https://pytorch.org/get-started/locally/
 
 ---
 
