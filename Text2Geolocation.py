@@ -902,7 +902,7 @@ def geolocation_agent(news_string:str, Gemini_API_Keys: list[str]):
         print("\n⚠️ Analysis Result: Slightly Vague Location (road or landmark is missing).")
         print("---------- Stage 2: Vague Location Inference ----------")
 
-        search_suggestions = re.findall(r"<sug_str>(.*?)<sug_str>", response_string_1)
+        search_suggestions = best_suggestions
         if not search_suggestions:
             print("No search strings generated from initial analysis. Cannot proceed with vague mapping.")
             return ['Not Available', 'Not Available', isVague]
@@ -932,8 +932,9 @@ Your task:
 ────────────────────────────
 MATCHING RULES
 ────────────────────────────
-- A "reasonable correspondence" means the location name(s) and surrounding context plausibly align with the described accident site — not necessarily exact.
-- Use **map labels only** as evidence. Ignore UI panels, photos, or sidebar text.
+- A "reasonable correspondence" means the location name(s) and surrounding context plausibly align with the described accident site.
+- UI EXCLUSION (CRITICAL): Reject the image (Confirmation: No) if it displays a sidebar list of multiple search results or suggestions on the left. The screenshot must show a single, selected location (usually indicated by one specific red pin and a single info card), not a generic search menu.
+- Use map labels only as evidence. Ignore UI panels, photos, or sidebar text except to identify if a specific location is selected.
 
 ────────────────────────────
 SEARCH STRING STRATEGY
