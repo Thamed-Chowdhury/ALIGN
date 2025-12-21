@@ -171,11 +171,14 @@ These correspond to the verified location (Bahadurpur Pur Uttar Para, Sunamganj 
 If you use ALIGN or extend this work, please cite:
 
 ```bibtex
-@article{Chowdhury2025ALIGN,
-  author  = {MD Thamed Bin Zaman Chowdhury and Moazzem Hossain},
-  title   = {ALIGN: A Vision–Language Framework for High-Accuracy Accident Location Inference through Geo-Spatial Neural Reasoning},
-  journal = {Transportation Research Part C (under review)},
-  year    = {2025}
+@misc{chowdhury2025alignvisionlanguageframeworkhighaccuracy,
+      title={ALIGN: A Vision-Language Framework for High-Accuracy Accident Location Inference through Geo-Spatial Neural Reasoning}, 
+      author={MD Thamed Bin Zaman Chowdhury and Moazzem Hossain},
+      year={2025},
+      eprint={2511.06316},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2511.06316}, 
 }
 ```
 
