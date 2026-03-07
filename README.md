@@ -12,7 +12,7 @@ Dr. Moazzem Hossain — BUET
 
 ALIGN (Accident Location Inference through Geo-Spatial Neural Reasoning) is a **vision–language AI pipeline** that automatically pinpoints the coordinates of traffic accident locations described in Bangla-language news articles.  
 It combines:
-- **Gemini 2.5 Flash (VLM)** for multimodal spatial reasoning  
+- **Multimodal LLMs (VLMs)** for multimodal spatial reasoning  
 - **Selenium** for automated Google Maps exploration  
 - **EasyOCR** for bilingual Bangla + English map text recognition  
 - **Fuzzy matching + reasoning logic** for verifying map and article consistency  
@@ -185,7 +185,7 @@ If you use ALIGN or extend this work, please cite:
 ## 🤝 Acknowledgements
 
 * **Logistics and Intelligent Transport Systems (LITS) Lab**, BUET
-* **Google Gemini 2.5 Flash** for multimodal reasoning
+* **Google, OpenaAI, TogetherAI** for multimodal reasoning
 * **EasyOCR (Jaided AI)** for bilingual text detection
 * **Selenium Project** for browser automation
 
