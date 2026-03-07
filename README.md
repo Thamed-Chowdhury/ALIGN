@@ -1,6 +1,7 @@
 # ALIGN: A Vision–Language Framework for High-Accuracy Accident Location Inference through Geo-Spatial Neural Reasoning
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/1092781559.svg)](https://doi.org/10.5281/zenodo.18903029)
 
 **Authors:**  
 MD Thamed Bin Zaman Chowdhury — Bangladesh University of Engineering and Technology (BUET)  
