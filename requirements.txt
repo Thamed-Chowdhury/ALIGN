@@ -1,4 +1,4 @@
-﻿annotated-types==0.7.0
+annotated-types==0.7.0
 anyio==4.12.1
 async-generator==1.10
 attrs==25.4.0
@@ -84,9 +84,6 @@ tabulate==0.10.0
 thefuzz==0.22.1
 tifffile==2026.1.28
 together==2.3.0
-torch==2.10.0
-torchaudio==2.10.0
-torchvision==0.25.0
 tqdm==4.67.3
 trio==0.32.0
 trio-typing==0.10.0
