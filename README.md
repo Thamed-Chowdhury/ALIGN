@@ -54,18 +54,21 @@ pip install -r requirements.txt
 ```
 
 ### 2. ⚠️ VERY IMPORTANT: PyTorch & CUDA 
-The `requirements.txt` file installs a general, CPU-compatible version of PyTorch by default to ensure maximum cross-platform compatibility. 
+If you plan to use **EasyOCR** (which is enabled by default in the `Text2GeolocationV7.py` pipeline), you must install PyTorch based on your specific operating system and hardware. **PyTorch is NOT included in `requirements.txt` to avoid cross-platform installation issues.**
 
-**HOWEVER, if you plan to use EasyOCR (which is enabled by default in the pipeline), it is strongly recommended that you manually install PyTorch with CUDA support** corresponding to your NVIDIA GPU.
+If PyTorch runs purely on CPU, OCR scanning of map screenshots will be *impractically slow* (taking several minutes per image), ultimately causing API timeouts and failed geolocations. A GPU (CUDA-enabled or Mac Silicon) is strongly recommended.
 
-If PyTorch runs purely on CPU, OCR scanning of map screenshots will be *impractically slow* (taking several minutes per image), ultimately causing API timeouts and failed geolocations.
-
-During pipeline development, **CUDA 12.6** was used.
-To install PyTorch with CUDA 12.6 support on Windows, run the following (overwriting the CPU version):
+**For Windows/Linux with NVIDIA GPUs (CUDA 12.4/12.6):**
 ```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 ```
-*(If you have a different CUDA version installed, find the correct wheel at [PyTorch's website](https://pytorch.org/get-started/locally/).)*
+
+**For CPU-only (Not Recommended) or Mac:**
+```bash
+pip install torch torchvision torchaudio
+```
+
+*(Find the exact installation command for your system at [PyTorch's website](https://pytorch.org/get-started/locally/).)*
 
 ### 3. API Keys Setup
 This pipeline can dynamically access LLMs from Together AI, Google Gemini, OpenAI, and Qwen, depending on your configuration. 
