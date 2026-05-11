@@ -3,10 +3,6 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/1092781559.svg)](https://doi.org/10.5281/zenodo.18903029)
 
-**Authors:**  
-MD Thamed Bin Zaman Chowdhury — Bangladesh University of Engineering and Technology (BUET)  
-Dr. Moazzem Hossain — BUET  
-
 ---
 
 ## 🔍 Overview
@@ -165,33 +161,6 @@ When completing a run (`RESULTS_DIR` = `results/` or `results_single/`):
 - **`benchmark_verbose.txt`**: The full stdout of the console tracing the entire thought process, query generation, and logic fallback of the agents.
 - **`benchmark_calls.jsonl`**: A line-by-line JSON record logging every single LLM network call, token costs, and prompt payload.
 - **`screenshots/`**: A generated folder containing the Google maps screenshots the VLM/OCR looked at during analysis.
-
----
-
-## 📑 Citation
-
-If you use ALIGN or extend this work, please cite:
-
-```bibtex
-@misc{chowdhury2025alignvisionlanguageframeworkhighaccuracy,
-      title={ALIGN: A Vision-Language Framework for High-Accuracy Accident Location Inference through Geo-Spatial Neural Reasoning}, 
-      author={MD Thamed Bin Zaman Chowdhury and Moazzem Hossain},
-      year={2025},
-      eprint={2511.06316},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2511.06316}, 
-}
-```
-
----
-
-## 🤝 Acknowledgements
-
-* **Logistics and Intelligent Transport Systems (LITS) Lab**, BUET
-* **Google, OpenaAI, TogetherAI** for multimodal reasoning
-* **EasyOCR (Jaided AI)** for bilingual text detection
-* **Selenium Project** for browser automation
 
 ---
 
